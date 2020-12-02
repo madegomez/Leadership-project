@@ -1,0 +1,269 @@
+CAS:complex adaptive systems
+SC:situational control
+TLS:transactional leadership style
+TRX:teacher resident exchange
+TRXs:teacher resident exchange
+RLMX:LMX
+LMXs:leader-member exchange
+LMX:leader-member exchange
+LMX-MDM:leader-member exchange multidimensional measure
+TLI:Tucker Lewis index
+TAM:technology acceptance model
+ELQ:empowering leadership model
+LBDQ:ohio state leadership model Behavior Description Questionnaire
+OCBs:organizational citizenship behaviors
+OCB:organizational citizenship behaviors
+US:USA
+U.S.:USA
+U.S.A.:USA
+United States:USA
+United States of America:USA
+EBS:electronic brainstorming
+LPL:least preferred leader
+LPC:least preferred co-worker
+LOQ:Leader Opinion Questionnaire
+SBDQ:Supervisory Behavior Description Questionnaire
+SLT:Situational Leadership Theory
+SLTs:Situational Leadership Theory
+SIT:Situational Leadership
+NHS:National Health Service
+EPAs:employee assistance programmes
+HBR:Harvard Business Review
+ELMX:economic leader-member exchange
+HR:human resources
+HRM:Human resource management
+HRMs:Human resource management
+HRD:Human resource developmental
+SHRM:strategic human resource management
+TL:Transformational Leadership
+CR:Contingent reward
+PA:positive affect
+TS:Task Structure
+PP:Position Power
+LMR:Leader-Member Relations
+MLD:management and leadership development
+MLC:management and leadership capability
+GLOBE:Global Leadership and Organizational Effectiveness
+TFL:transformational leadership
+TFLs:transformational leadership
+TSL:transactional leadership
+AOC:affective organizational commitment
+MLQ:Multifactor Leadership Questionnaire
+MLQs:Multifactor Leadership Questionnaire
+MLQSX:Multifactor Leadership Questionnaire
+MSQ:Multifactor Leadership Questionnaire
+LSS:Leadership Scale for Sports
+CBAS:Coaching Behavior Assessment System
+NIND:Subordinate Need for Independence
+TASKFB:Task-provided Feedback Concerning Accomplishment
+NOCTRL:Organizational Rewards Not Within the Leaders Control
+PROF:Professional Orientation
+INSAT:intrinsically satisfying tasks
+INFLEX:Organizational inflexibility
+AETK:Ability, experience, training, and knowledge
+ADVSTF:Advisory and staff support
+IC:individualized consideration
+EMSs:electronic meeting systems
+EMS:electronic meeting systems
+IM:inspirational motivation
+CLT:Complexity leadership theory
+CLTs:Complexity leadership theory
+CL:Complexity leadership theory
+Basss Transformational Leadership Transformational:Transformational Leadership
+Transformational Leadership Transformational:Transformational Leadership
+the Conservative Party:Conservative National Party
+VDL:Vertical Dyadic Linkage Theory
+AL:Authentic Leadership
+ALs:Authentic Leadership
+DL:Distributed Leadership
+SL:Servant Leadership
+LP:Lean Production
+IAEA:International Atomic Energy Agency
+POB:positive organizational behavior
+ALD:authentic leadership development
+POS:perceived organizational support
+ALS:average leadership style
+IL:individualized leadership
+TMX:team-member exchange
+NPD:new product development
+PPP:Power Perception Profile
+CET:Cognitive Evaluation Theory
+AST:Adaptive Structuration Theory
+ASTs:Adaptive Structuration Theory
+FTA:face threatening acts
+MAP:motives, abilities, and perceptions
+MAPs:motives, abilities, and perceptions
+ILT:implicit leadership theories
+ILTs:implicit leadership theories
+FFM:Five Factor Model
+CHA:charism
+LTO:long-term orientation
+MAS:masculinity
+UAI:Uncertainty avoidance
+ME:management-by-exception
+PDI:power distance
+OD:organizational development
+MMX:Member-Member Exchange
+RLT:Relational Leadership Theory
+NSOR:Nursing Systems Outcomes Research
+WQI:Work Quality Index
+RN:registered nurse
+RNs:registered nurse
+UAE:United Arab Emirates
+MOE:Ministry of Education
+PNG:Papua New Guinea
+COR:Conservation of resources
+LOT:Life Orientation Test
+SME:Small and Medium Enterprises
+SMEs:Small and Medium Enterprises
+LPI:leadership practices inventory
+GDP:Gross Domestic Product
+IMD:International Institute for Management Development
+TAT:Thematic Apperception Test
+MPS:Managerial Practices Survey
+CSR:corporate social responsibility
+RFT:Regulatory Focus Theory
+ALQ:Authentic Leadership Questionnaire
+CIP:charismatic, ideological, pragmatic
+ALI:Authentic Leadership Inventory
+MBE:management-by-exception
+TQM:Total Quality Management
+LDQ:Leadership Development Questionnaire
+EQ:emotional
+MQ:managerial
+CVF:competing values framework
+SSAP:stakeholder satisfaction assessment for project
+CPI:cost performance index
+SPI:schedule performance index
+SCF:Save the Children Federation
+IQEA:Improving the Quality of Education for All
+ABC:Antecedent Benefit Cost
+TMGT:too much of a good thing
+CRM:Career Roles Model
+ERP:enterprise resource planning
+SCM:supply chain management
+IT:information technology
+IOS:inter-organizational systems
+WMS:warehouse management system
+ROI:return on investment
+RFID:radio frequency identification
+ELS:Ethical Leadership Scale
+SET:social exchange theory
+MBEP:management-by-exception-passive
+MBEA:management-by-exception-active
+BAS BIS:Behavioral Approach Behavioral Inhibition System
+CSE:core self-evaluation
+CSEs:core self-evaluation
+SDO:Social Dominance Orientation
+CAPS:cognitive-affective personality system
+CFI:comparative fit index
+FRLT:Full Range Leadership Theory
+LMP:Leader Motive Profile
+DI:delegation of the decision
+CRT:Cognitive Resource Theory
+MZA:monozygotic
+FI:feedback interventions
+CSWE:Council on Social Work Education
+MBO:Management by objectives
+EP:employee-participant
+EPs:employee-participant
+SIMOL:Social Identity Model of Organizational Leadership
+SIMOLs:Social Identity Model of Organizational Leadership
+IB:international business
+NTL:nurturant-task leadership
+NTLs:nurturant-task leadership
+PL:Paternalistic leadership
+PLs:Paternalistic leadership
+VY:Vroom_Yetton
+DSS:Decision Support Systems
+DSSs:Decision Support Systems
+LT:Leadership Theory
+LTs:Leadership Theory
+LAMPE:leadership, authority, management, power, and external environments
+SOP:standard operating procedures
+SS:Supervisor Student
+ULP:unit-level properties
+ULPs:unit-level properties
+TMT:top-management teams
+TRU:Trauma Resuscitation Unit
+TRUs:Trauma Resuscitation Unit
+ARL:Association of Research Libraries
+RCT:referent cognitions theory
+NPM:New Public Management
+OL:organisational learning
+SES:socioeconomic status
+BABS:Bachelor of Applied Business Studies
+ICT:Information and Communication Technology
+ISTE:International Society for Technology and Education
+GNS:growth need strength
+JCM:Job Characteristic Model
+RE:renewable energy
+CFB:Chinese family businesses
+PIMRS:Principals’ Instructional Management Rating Scale
+OC:organizational commitment
+ISL:Initiating structure leadership
+KM:Knowledge Management
+DPO:Direction par Objects
+QWL:quality of working life
+QOL:quality of life
+LLX:leader-leader exchange
+RBSE:role breadth self-efficacy
+MBTI:MTBI
+MTBI:Myers-Briggs Type Indicator
+SCL:SCLs
+SCLs:socialized charismatic leaders
+PM:psychological mindedness
+LC:leader-contact
+MC:member-contact
+PDM:Participative decision-making
+CC:continuance commitment
+NC:normative commitment
+AC:affective commitment
+GDSS:group decision support system
+SDT:self-determination theory
+NCR:NCP
+NCP:non-contingent punishment
+IWB:innovative work behavior
+PS:psychological safety
+WSC:working self-concept
+NFCS:Need for Closure Scale
+JDI:Job Description Index
+OCAI:organizational culture assessment indicator
+ITQ:intention to quit
+CAOC:cynicism about organizational change
+TF:transformational leadership
+SIMOR:Supervisors Interactive Model of Organizational Relationships
+RRT:Role Reaction Test
+GME:graduate medical education
+GA:Group Atmosphere
+FDI:foreign direct investment
+CK:Conger and Kanungo
+EI:emotional intelligence
+RLS:Romance of Leadership Scale
+SMLQ:self-management Leadership Questionnaire
+JD:Job Demands Resources Model
+FCM:Fiedler contingency model
+FCMs:Fiedler contingency model
+LCT:leadership categorization theory
+AET:Affective Events Theory
+CNS:clinical nurse specialist
+EN:enrolled nurses
+Second World War:World War II
+ERIC:Educational Resources Information Centre
+NCOs:non-commission officers
+PHSOs:Public human services organizations
+CILTs:implicit leadership theory
+IFTs:implicit followership theory
+FMSs:Flexible Manufacturing Systems
+CEOs:CEO
+Chief executive officer:CEO
+PCLs:personalized charismatic leadership
+CFPDTs:Cross-functional product development teams
+AMTs:Advanced Manufacturing Technologies
+IQs:IQ
+LTIPs:long-term incentive plans
+CWBs:counter-productive work behaviors
+MBAs:MBA
+NGOs:NGO
+The Global Leadership and Organizational Effectiveness Project:Global Leadership Organizational Effectiveness Research Program
+the Situational LeadershipÆ Model The Situational Leadership:Situational Leadership Model
