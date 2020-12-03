@@ -1,0 +1,402 @@
+ohio state leadership model:ohio_state_leadership_model
+Situations controlled through the use of rules and procedures per se:situation_control_rule_procedure_se
+Kind:kind
+Attribution theory of leadership:attribution_theory_leadership
+Organizational outcome:organizational_outcome
+Communicate standards of performance and behavior while maintaining discipline ethics and integrity:communicate_standard_performance_behavior_maintain_discipline_ethic_integrity
+Concentrates on the present:concentrate_present
+Requests information but does not provide it:request_information_provide
+Charismatic:charismatic
+Need of power:need_power
+skilled:skilled
+humble:humble
+Team competence:team_competence
+Articulate and defender moral principios:articulate_defender_moral_principio
+Sell the decisions.:sell_decision
+Organizational cohesion and commitment:organizational_cohesion_commitment
+Efficient work habits.:efficient_work_habit
+Lack of collaboration.:lack_collaboration
+community:community
+Provides rewards:provide_reward
+Friendly organizational climate.:friendly_organizational_climate
+Unreliable respectful and considerate:unreliable_respectful_considerate
+Total Lack of Leader Participation:total_lack_leader_participation
+Information level:information_level
+Disinterested:disinterested
+work and resources assigned:work_resource_assign
+integral:integral
+It is emotionally linked.:link
+Organization features:organization_feature
+Use available information to make decisions.:use_available_information_decision
+Provides specific guidelines on completing tasks and attaining goals.:provide_specific_guideline_complete_task_attain_goal
+Model:model
+Creation of an organizational culture focused on change.:creation_organizational_culture_focus_change
+People time and resources organized in an efficient way:people_time_resource_organize_in_efficient
+Presents decisions subject to modification:present_decision_subject_modification
+Sincere:sincere
+indifferent:indifferent
+Sustained Results:sustain_result
+paternalistic leadership theory:paternalistic_leadership_theory
+Situational Contingency Theory:situational_contingency_theory
+Change and transformation oriented level II:change_transformation_oriented_level_ii
+Transactional leadership theory:transactional_leadership_theory
+Resource availability:resource_availability
+Neurotic (emotional instability):neurotic_emotional_instability
+Development of capacities and strengths of followers.:development_capacity_strength_follower
+Encourage collaborators to be innovative and creative.:encourage_collaborator_innovative_creative
+paternalist leadership:paternalist_leadership
+It does not take into account the mistakes of people.:account_mistake_people
+Motivate to take risks and generate  enthusiasm.:motivate_risk_generate_enthusiasm
+Guide to Promoting Changes:guide_promoting_change
+Creation of a transcendent vision of services for others.:creation_transcendent_vision_service
+Schedule and fulfillment of tasks according to the leader specifications:schedule_fulfillment_task_leader_specification
+External oriented:external_oriented
+Behavioral approach:behavioral_approach
+Value-based leadership approach:value_base_leadership_approach
+One-way communication.:one_way_communication
+Collaborators with capacities to adapt to situations in the changing environment.:collaborator_capacity_adapt_situation_in_change_environment
+task uncertainty:task_uncertainty
+quality required for the task:quality_require_task
+Intelligence level:intelligence_level
+Trait approach:trait_approach
+Make decisions through agreements with the group.:make_decision_agreement_group
+Moved by knowledge sharing.:move_knowledge_share
+Leader:leader
+Flexibility To Change:flexibility_change
+self-monitoring:monitor
+Provides support to collaborators.:provide_support_collaborator
+Focused only on the performance of the worker the fulfillment of goals and objectives:focus_performance_worker_fulfillment_goal_objective
+Avoid making decisions:avoid_make_decision
+Encouraging:encourage
+Activation of the spirit entrepreneur.:activation_spirit_entrepreneur
+Values ​​and enforces established principles.:value_enforce_establish_principle
+Afraid to use power:afraid_power
+Ask for opinions of subordinates as a group before deciding on your own.:ask_opinion_subordinate_group_decide
+Collaborative work:collaborative_work
+charismatic leadership theory:charismatic_leadership_theory
+Spiritual theory of leadership:spiritual_theory_leadership
+uncritical:uncritical
+Organizational culture of discipline and loyalty in the work team.:organizational_culture_discipline_loyalty_in_work_team
+It involves followers in a vision to the future.:involve_follower_in_vision_future
+Goal congruence:goal_congruence
+Evaluate and modify the group balance and its composition as necessary.:evaluate_modify_group_balance_composition
+Trait theory:trait_theory
+interpersonal emphasis:interpersonal_emphasis
+Exchange and transfer of knowledge within the organization.:exchange_transfer_knowledge_organization
+Monitored operations:monitor_operation
+Clients public informed about official positions of the organization:client_public_inform_official_position_organization
+Prone to defying political situations.:prone_defying_political_situation
+culture and working environment:culture_working_environment
+personality:personality
+Acceptable Development:acceptable_development
+Generative leadership theory:generative_leadership_theory
+Policies consistent with changing situations:policy_consistent_changing_situation
+Set and provide employees with clear and challenging goals:set_provide_employee_clear_challenging_goal
+selfish:selfish
+Transparent:transparent
+Decisions made unilaterally using available information.:decision_available_information
+commitment possibility:commitment_possibility
+Give up too much responsibility:give_responsibility
+psychological maturity:psychological_maturity
+Aggressive.:aggressive
+Focused on production meeting goals and objectives:focus_production_meeting_goal_objective
+Effective:effective
+Prioritize group goals.:prioritize_group_goal
+Treat everyone with equity dignity and respect from the lowest level to the hightest:treat_equity_dignity_respect_lowest_level_hightest
+Have no confidence in others.:have_confidence_in
+Monitor the external environment.:monitor_external_environment
+complacence:complacence
+Time constraints:time_constraint
+Multiple linkage model of leadership:multiple_linkage_model_leadership
+Postponed tasks in the planning and participation:postpone_task_in_planning_participation
+Conflict Minimization:conflict_minimization
+Balanced Solutions More Than Appropriate:balance_solution_more_appropriate
+Intuitive understanding between colleagues working closely together.:intuitive_understanding_colleague_work
+Subordinate conflict:subordinate_conflict
+fair:fair
+Leader information:leader_information
+High consideration between people:high_consideration_people
+Goal expertise:goal_expertise
+Characteristic:characteristic
+Ambitious to the service of the institution:ambitious_service_institution
+Low planning.:low_planning
+Approach:approach
+Problem features related:problem_feature_related
+Avoid the confrontations:avoid_confrontation
+Low direction towards goal achievement.:low_direction_goal_achievement
+Have high expectations.:have_high_expectation
+Organizational culture of freedom for personal or group decision.:organizational_culture_freedom_personal_group_decision
+Show Confidence  in  its Decisions.:show_confidence_in_decision
+Climate of transparency hope and optimism:climate_transparency_hope_optimism
+Allows different ways to perform a task:allow_way_perform_task
+Theory:theory
+Impose own points of view.:impose_point_view
+Little focused on tasks or needs of people.:little_focus_task_people
+Challenging performance standards.:challenging_performance_standard
+not delegative:delegation
+Open and two-way communication.:open_communication
+Provides importance to collaborators.:provide_collaborator
+irresponsible:irresponsible
+Subordinate performance at the  highest level in the short term:subordinate_performance_highest_level_in_short_term
+Friendly:friendly
+Interact With Collaborators.:interact_collaborator
+Present ideas and open group discussions allowing participation.:present_idea_open_group_discussion_allow_participation
+Establishment of performance and behavior standards.:establishment_performance_behavior_standard
+functional leadership theory:functional_leadership_theory
+ethical leadership theory:ethical_leadership_theory
+Little efficiency in tasks productive processes and achievement of objectives:little_efficiency_in_task_productive_process_achievement_objective
+external cooperation:external_cooperation
+Clear direction towards meeting goals.:clear_direction_meeting_goal
+Design and implementation of new business projects based on the needs of the environment.:design_implementation_business_project_base_environment
+Positive interaction between followers.:positive_interaction_follower
+Related to the characteristics of the group:related_characteristic_group
+Supervise and coordinate activities of collaborators:supervise_coordinate_activity_collaborator
+Trust in the ability of employees to achieve high difficult goals and solve problems:trust_in_ability_employee_achieve_high_difficult_goal_solve_problem
+He performs ceremonial tasks presides over and represents the organization in a symbolic way before visitors:perform_ceremonial_task_preside_represent_organization_in_symbolic_visitor
+work maturity:work_maturity
+ability to do tasks:ability_task
+Activities and clear objectives.:activity_clear_objective
+Influenced by the pressures of the situation:influence_pressure_situation
+Present problems to collaborators individually.:present_problem_collaborator
+Increase in the probability of reaching a quality solution.:increase_in_probability_reach_quality_solution
+Make a decision alone.:make_decision
+It controls the adherence to the rules and the use of organizational resources such as human financial material and others:controls_adherence_rule_organizational_resource_human_financial_material
+Style:style
+It does not intervene it only acts in extreme cases:intervene_act_in_extreme_case
+Ambidextrous leadership theory:ambidextrous_leadership_theory
+Leader related:leader_related
+Altruistic:altruistic
+job satisfaction:job_satisfaction
+Actively track bugs:track_bug
+Communicate and adhere to ethical values:communicate_adhere_ethical_value
+critical:critical
+Vertical Dyad Linkage Theory:vertical_dyad_linkage_theory
+Shows little interest in contributors comments:show_interest_in_contributor_comment
+Committed to collaborators and the common benefit:commit_collaborator_common_benefit
+Decreased political viability.:decrease_political_viability
+Negative effects on employee satisfaction:negative_effect_employee_satisfaction
+Monitor the environment through third parties:monitor_environment_third_party
+Honest with  itself and others.:honest
+optimistic:optimistic
+Decisions made unilaterally using information obtained from group members:decision_information_group_member
+effectiveness level:effectiveness_level
+Firm determination:firm_determination
+does not use its authority.:authority
+uncommitted:uncommitted
+Fiedler contingency model of leadership:fiedler_contingency_model_leadership
+trust level:trust_level
+Consensus with restrictions.:consensus_restriction
+Employees feeling adrift:employee_feel_adrift
+With knowledge:knowledge
+Poorly permeable objective political constraints:permeable_objective_political_constraint
+Make decisions using the information obtained.:make_decision_information
+Variable:variable
+Handles unnexpected events and problems in the organization.:handle_unnexpected_event_problem_in_organization
+Substitutes for Leadership Theory:substitute_leadership_theory
+Destructive leadership model:destructive_leadership_model
+Give importance to differences in rank and position.:give_difference_in_rank_position
+It does not provide clear goals.:provide_clear_goal
+learning leadership model:learn_leadership_model
+Obtaining challenging learning goals:obtain_challenging_learning_goal
+Dissent suppression:dissent_suppression
+Decision analysis for best compression of your logic and implications:decision_analysis_compression_logic_implication
+managing:manage
+Preservation of organizational stability instead of promoting change.:preservation_organizational_stability_promote_change
+Share information with people outside the organization:share_information_people_outside_organization
+accommodates opposition.:accommodate_opposition
+Organizational.:organizational
+Genuine Desire To Serve.:genuine_desire_serve
+Makes decisions unilaterally does not take into account opinions:make_decision_account_opinion
+Collectively obtaining ideas suggestions and alternatives:obtain_idea_suggestion_alternative
+Unfinished Results:unfinish_result
+Modification of attitudes and behaviors of followers.:modification_attitude_behavior_follower
+Minimization of immediate pressures and problems.:minimization_pressure_problem
+Collaborators with new potentials.:collaborator_potential
+Low work stress.:low_work_stress
+Inspire sense of purpose.:inspire_sense_purpose
+authentic leadership theory:authentic_leadership_theory
+problem structure:problem_structure
+More creative innovators entrepreneurs and adaptables environments:creative_innovator_entrepreneur_adaptable_environment
+Leadership as process:leadership_process
+Creation of good interpersonal relationships.:creation_good_interpersonal_relationship
+Set routines:set_routine
+Change and transformation oriented level I:change_transformation_oriented_level_i
+Shared leadership theory:share_leadership_theory
+Encourage experimentation with different ideas.:encourage_experimentation_idea
+Allow mistakes:allow_mistake
+Behavioral theory:behavioral_theory
+Authoritarian.:authoritarian
+Decisions based on information collected:decision_base_information_collect
+member effort:member_effort
+It allows consensual decisions by the group within prescribed limits.:consensual_decision_group_prescribe_limit
+Motivated by the tasks.:motivated_task
+Manages through the network and connections.:manage_network_connection
+Related to the features of the decision:related_feature_decision
+Personal situation theory:personal_situation_theory
+Entrust matters to collaborators who do not have the necessary capacity.:entrust_matter_collaborator_capacity
+Transactional and transformational leadership model:transactional_transformational_leadership_model
+Tending to criticize or punish when he considers that the work is not as desired.:tend_criticize_punish_consider_work_desire
+Recognize individual accomplishments effort and good work:recognize_individual_accomplishment_effort_good_work
+Effective solutions both on a productive and personal level:effective_solution_productive_personal_level
+Change and transformation oriented:change_transformation_oriented
+Change and transformation oriented level III:change_transformation_oriented_level_iii
+cognitive leadership theory:cognitive_leadership_theory
+creative:creative
+Creation of connection networks.:creation_connection_network
+Moral leadership theory:moral_leadership_theory
+Organizational environment with emphasis on the quality criteria of the decision rather than on the acceptance of the decision.:organizational_environment_emphasis_quality_criterion_decision_acceptance_decision
+Reduction of possible resistance to decisions:reduction_resistance_decision
+Delegate problems power and responsibility to others:delegate_problem_power_responsibility
+interpersonal stress:interpersonal_stress
+Action centered leadership model:action_center_leadership_model
+leader position of power:leader_position_power
+motivating:motivating
+Unsolved Problems:unsolved_problem
+Oriented to ignore or suppress the  Opposition.:oriented_ignore_suppress_opposition
+goal achievement group support:goal_achievement_group_support
+Collect select and verify information:collect_select_verify_information
+Set trust mutual respect support and security:set_trust_mutual_respect_support_security
+Organization emphasized on productivity:organization_emphasize_productivity
+attaches importance to the mechanics of things.:attach_mechanic
+Intense professional will.:intense_professional
+Work satisfaction:work_satisfaction
+Spiritual:spiritual
+Elimination of authoritarianism paternalism technocracy manipulation:elimination_authoritarianism_paternalism_technocracy_manipulation
+Modify decisions based on the contributions of the collaborators and the perceived needs of the situations.:modify_decision_base_contribution_collaborator_perceive_situation
+Demanding:demand
+Michigan university leadership model:michigan_university_leadership_model
+Outside oriented level I:outside_oriented_level_i
+Collaborators with acceptable morals.:collaborator_acceptable_moral
+Put pressure on collaborators.:put_pressure_collaborator
+planner:planner
+Task characteristics:task_characteristic
+Production and achievement of moderate goals:production_achievement_moderate_goal
+Great man theory:great_man_theory
+Empower the collaborators.:empower_collaborator
+Monitors operations performance and goal achievement:monitor_operation_performance_goal_achievement
+Make the least effort:make_effort
+proactive:proactive
+Recognize the importance of being authentic and true in interaction:recognize_authentic_true_in_interaction
+Demanding organizational culture with a high degree of control adhering to the rules and regulations:demand_organizational_culture_high_degree_control_adhere_rule_regulation
+Organizational systems and policies that support moral and ethical behaviors:organizational_system_policy_support_moral_ethical_behavior
+Make decisions and communicate them.:make_decision_communicate
+Praise the collaborators.:praise_collaborator
+It involves collaborators who are not suitable in tasks that do not require participation and in matters that should not.:involve_collaborator_suitable_in_task_require_participation_in_matter
+Power and influence leadership theory:power_influence_leadership_theory
+Little interest in the moral development of the collaborators.:little_interest_in_moral_development_collaborator
+trustworthy:trustworthy
+tolerate differences:tolerate_difference
+Development of interpersonal values:development_interpersonal_value
+Empathic:empathic
+Aware of being a guide that orients and teaches:aware_guide_orient_teach
+Act as a coach or mentor:act_coach_mentor
+generous:generous
+It is only interested in achieving harmony:interested_in_achieve_harmony
+Role theory of leadership:role_theory_leadership
+It relates to people outside the organization.:relate_people_outside_organization
+adaptive leadership theory:adaptive_leadership_theory
+New Clear And Committed Vision:new_clear_committed_vision
+Situational approach:situational_approach
+Establish objectives procedures and responsibilities:establish_objective_procedure_responsibility
+Achievement goal theory:achievement_goal_theory
+Relational approach:relational_approach
+Lack of ranks or hierarchies in work teams.:lack_rank_hierarchy_in_work_team
+Manage corrective actions when the organization faces unnexpected crisis.:manage_corrective_action_organization_face_unnexpected_crisis
+Organizational culture of little support.:organizational_culture_support
+likes to keep its status of superiority.:like_status_superiority
+Structured working conditions.:structured_working_condition
+Leader context related:leader_context_related
+External support from people who can influence the success of the organization.:external_support_people_influence_success_organization
+flexible:flexible
+Possible Disagreements:possible_disagreement
+Transformational leadership theory:transformational_leadership_theory
+Philosophy absence:philosophy_absence
+Confident in rules and procedures per se.:confident_in_rule_procedure_se
+Remarkable sense of immediacy.:remarkable_sense_immediacy
+Level five leadership model:level_five_leadership_model
+Planning and organization of activities:plan_organization_activity
+Open to the experience and learning.:open_experience_learning
+cognitive resources theory:cognitive_resource_theory
+Listen to ideas suggestions and needs of collaborators:listen_idea_suggestion_collaborator
+Leadership as property:leadership_property
+Listens to others and gives advice when asked.:listen_advice_ask
+Servant leadership theory:servant_leadership_theory
+Sensitive to the nuances of society to the conditions and needs of the context:sensitive_nuance_society_condition_context
+Reward the ethical behavior.:reward_ethical_behavior
+Provides autonomy to collabotators.:provide_autonomy_collabotator
+Heavy Punishments:heavy_punishment
+believing to control events:believe_control_event
+Decision quality:decision_quality
+Attend personal problemas.:attend_personal_problema
+Obtaining commitment from collaborators:obtain_commitment_collaborator
+Allows group operation within preset limits:allow_group_operation_preset_limit
+Rigorous:rigorous
+With a sense of ethical duty.:sense_ethical_duty
+Persuasive and influential.:persuasive_influential
+Persist in trusting employees insisting on opportunities and waiting:persist_in_trust_employee_insist_opportunity_wait
+Zero participation of the group or subordinates:zero_participation_group_subordinate
+Sanctions and corrects when objectives and goals are not met.:sanction_correct_objective_goal_meet
+Organizational culture of trust and respect among the members of the organization:organizational_culture_trust_respect_member_organization
+task oriented level IV:task##oriented_level_iv
+Self-managed  teams.:self##manage_team
+Self-conscious:self##conscious
+Path goal model:path##goal_model
+leader-follower relationship:leader##follower_relationship
+Leader-Follower theory:leader##follower_theory
+Take into account collaborators in the discussion of objectives and decision making.:take_account_collaborator_in_discussion_objective_decision##make
+Collaborators interacting with the environment who learn adapt and co-evolve based on values that transcend interest always seeking the common good:collaborator_interact_environment_learn_adapt_co##evolve_base_value_transcend_interest_seek_common_good
+Increased self-esteem of employees.:increase_self##esteem_employee
+level of Experience with problem solving:level_experience_problem##solving
+relationship oriented level III:relationship##oriented_level_iii
+Building an emotional bond between leader and follower:building_emotional_bond_leader##follower
+task oriented level III:task##oriented_level_iii
+Low Quality Relationships:low##quality_relationship
+tridimensional leadership-effectiveness model:tridimensional_leadership##effectiveness_model
+Participation and collaboration in decision-making:participation_collaboration_in_decision##make
+Self-confident.:self##confident
+LMX-MMX theory:leader##member_exchange##member##member_exchange_theory
+non-advisory:non##advisory
+Cares and prioritizes the well-being and growth of his followers:care_prioritize##be_growth_follower
+Share and communication problemas and information with collaborators in group environments.:share_communication_information_collaborator_in##group_environment
+relationship oriented level II:relationship##oriented_level_ii
+Task oriented level I:task##oriented_level_i
+Task related:task##related
+Value oriented level I:value##oriented_level_i
+Balance between dedication to work and group integration.:balance_dedication_work##group_integration
+Increased participation in decision-making.:increase_participation_in_decision##make
+task-relationship oriented-low level II:task##relationship##oriented##low_level_ii
+Poliheuristic model of Decision Making:poliheuristic_model_decision##make
+co-worker commitment with the decision value:co##worker_commitment_decision_value
+Leader-follower relationship from superior-subordinate:leader##follower_relationship_superior##subordinate
+Task oriented:task##oriented
+relationship oriented level I:relationship##oriented_level_i
+Integration of the leader to the group as one more member.:integration_leader##group_member
+Involve collaborators in decision-making.:involve_collaborator_in_decision##make
+Self-cultivator:self##cultivator
+Blake and mouton managerial grid model of leadership:blake##mouton_managerial_grid_model_leadership
+Adaptive problem solving and improvement.:adaptive_problem##solving_improvement
+Decisions made by consensus between the leader and the group of collaborators.:decision_consensus_leader##group_collaborator
+Hersey and blanchard situational leadership model:hersey##blanchard_situational_leadership_model
+task-relationship oriented-medium level:task##relationship##oriented##medium_level
+Designs and manages strategies for change organizational learning creative problem solving and collaboration:design_manage_strategy_change_organizational_learn_creative_problem##solving_collaboration
+leader-follower communication frequency:leader##follower_communication_frequency
+Third-party contacts:third##party_contact
+task-relationship oriented-high level II:task##relationship##oriented##high_level_ii
+Self-disciplined:self##discipline
+task oriented level II:task##oriented_level_ii
+task-relationship oriented-high level I:task##relationship##oriented##high_level_i
+Value oriented:value##oriented
+Coworker related:co##worker_related
+Vroom and yetton decision model:vroom##yetton_decision_model
+co-worker uncertainty:co##worker_uncertainty
+Non-fulfillment of objectives.:non##fulfillment_objective
+competence-based theory:competence##base_theory
+Relationship oriented:relationship##oriented
+task-relationship oriented-high level:task##relationship##oriented##high_level
+Atmosphere that encourages followers to become the best they can based on altruistic ethical and moral orientations:atmosphere_encourage_follower##base_altruistic_ethical_moral_orientation
+Tannenbaum-Schmidt Leadership Continuum:tannenbaum##schmidt_leadership_continuum
+task-relationship oriented-low level I:task##relationship##oriented##low_level_i
+Vroom and Jago model:vroom##jago_model
+task-relationship oriented-low level:task##relationship##oriented##low_level
+task-relationship oriented-medium level I:task##relationship##oriented##medium_level_i
+Little innovation and creativity of the group:little_innovation_creativity##group
