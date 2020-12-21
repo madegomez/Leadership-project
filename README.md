@@ -9,4 +9,4 @@ El archivo Siglas_originales.txt tiene la estructura --> sigla:termino_definitiv
 
 El archivo Name_clases_originales.txt tiene las clases, subclases y instancias de la ontología del liderazgo. Estas etiquetas están preprocesadas.
 
-El archivo Name_clases_alternativas.txt tiene las alternativas de las etiquetas presentadas en el documetno anterior. Todas las ternativas están preoprocesadas.
+El archivo Name_clases_alternativas_completas.txt tiene las alternativas de las etiquetas presentadas en el documetno anterior. Todas las ternativas están preoprocesadas.
