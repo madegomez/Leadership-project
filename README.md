@@ -19,4 +19,4 @@ En Stopwords_compilation.txt están las stopwords que se usaron en este proyecto
 
 El archivo Corpus_Ont_Semilla_Original_v7.txt contiene los 293 documentos después de preprocesamiento. Los documentos están separados por sentencias. En este corpus existen 8333 unigramas unicos.
 
-En Sentences_relevence_semilla.txt están los nombres de cada documento con categoria 'completamente asociado a la ontología semilla' y los números que corresponde a las sentencias relevantes dentro de cada texto. En Setence_relevence_enriquecimiento.txt se asocian los textos en categoria 'no completamente asociado a la ontología semilla'.
+En Sentences_relevence_semilla.txt están los nombres de cada documento con categoria 'completamente asociado a la ontología semilla' y los números que corresponde a las sentencias relevantes dentro de cada texto. En Sentences_relevence_enriquecimiento.txt se asocian los textos en categoria 'no completamente asociado a la ontología semilla'.
