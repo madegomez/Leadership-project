@@ -1,7 +1,7 @@
 # Leadership_project
 Data for leadership project
 
-El archivo Corpus_Ont_Semilla_Original.zip contiene los 293 documentos originales. Para la tarea de enriquecimiento se tiene 35 texto, los restantes contienen información que ya está en la ontologñia semilla.
+El archivo Corpus_Ont_Semilla_Original.zip contiene los 293 documentos originales. Para la tarea de enriquecimiento se tiene 35 texto, los restantes contienen información que ya está en la ontología semilla. La clasificación de textos (entre asociados o no a la ontología semilla) considero que si el texto tenía como mínimo un conceptos que no estuviera presente en la ontología, entonces era un documento no asociado a la ontología semilla (o empleado en la tarea de enriquecimiento). Por lo anterior, un documento con categoria 'no asociado a la ontología semilla' puede contener algunos constructos que si están dentro del modelo conceptual.
 
 El archivo Corpus_Ont_Semilla_Original_v7.txt contiene los 293 documentos después de preprocesamiento. Los documentos están separados por sentencias. En este corpus existen 8333 unigramas unicos.
 
