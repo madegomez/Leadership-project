@@ -5,6 +5,8 @@ El archivo Corpus_Ont_Semilla_Original.zip contiene los 293 documentos originale
 
 El archivo Corpus_Ont_Semilla_v7.zip contiene los 293 documentos después de preprocesamiento. Los documentos están separados por sentencias.
 
+En Sentences_relevence.txt están los nombres de cada documento y los números que corresponde a las sentencias relevantes dentro de cada texto.
+
 El archivo Siglas_originales.txt tiene la estructura --> sigla:termino_definitivo.
 
 El archivo Name_clases_originales.txt tiene las clases, subclases y instancias de la ontología del liderazgo. Estas etiquetas están preprocesadas.
