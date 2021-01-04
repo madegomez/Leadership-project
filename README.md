@@ -1,7 +1,7 @@
 # Leadership_project
 Data for leadership project
 
-El archivo Corpus_Ont_Semilla_Original.zip contiene los 293 documentos originales.
+El archivo Corpus_Ont_Semilla_Original.zip contiene los 293 documentos originales. Para la tarea de enriquecimiento se tiene 35 texto, los restantes contienen información que ya está en la ontologñia semilla.
 
 El archivo Corpus_Ont_Semilla_Original_v7.txt contiene los 293 documentos después de preprocesamiento. Los documentos están separados por sentencias. En este corpus existen 8333 unigramas unicos.
 
