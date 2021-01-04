@@ -3,7 +3,7 @@ Data for leadership project
 
 El archivo Corpus_Ont_Semilla_Original.zip contiene los 293 documentos originales.
 
-El archivo Corpus_Ont_Semilla_v8.zip contiene los 293 documentos después de preprocesamiento. Los documentos están separados por sentencias. En este corpus existen 8333 unigramas unicos.
+El archivo Corpus_v8.txt contiene los 293 documentos después de preprocesamiento. Los documentos están separados por sentencias. En este corpus existen 8333 unigramas unicos.
 
 En Corpus_segmentation.txt se indica si el documento corresponde al corpus asociado a la ontología semilla ó fue usado para enriquecer el modelo.
 
