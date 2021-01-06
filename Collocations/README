@@ -1,0 +1,4 @@
+La frecuencia de cadaposible colocación está en los archivos freq.
+
+Las colocaciones candidatas fueron filtradas en relación a la etiqueta POS, asi mantener sólo sustantivos y adjetivos. Después fueron ponderadas en relación a la medida PPMI y se mnatuvieron valores superiores a cero. Estos datos están en los archvivos ppmi
+
