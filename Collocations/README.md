@@ -5,4 +5,4 @@ Después fueron ponderadas en relación a la medida PPMI y se mantuvieron valore
 
 Las colaciones resultantes fueron evaluadas en una prueba loglikelihood con un 95% de confianza. Los resultados están en los archivos ppmi_cross_log_likehood
 
-SE analizó la presencia de colocaciones contenidas en otras (por ejemplo, 'manager___team___member' y 'manager___team') y se dejaron aquellas colocaciones con mayor PPMI. Las colaciones resultantes están en el archivo ngrams_finales.txt
+Las colaciones resultantes están en el archivo ngrams_finales.txt
