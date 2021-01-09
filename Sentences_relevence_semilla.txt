@@ -154,7 +154,6 @@ ArtCl7_Art2017__34
 ArtCl7_Art2017__42
 ArtCl7_Art2017__73
 ArtCl1_Art66__0
-ArtCl1_Art66__1
 ArtCl1_Art66__10
 ArtCl1_Art66__103
 ArtCl1_Art66__107
@@ -246,7 +245,6 @@ ArtCl1_Art66__287
 ArtCl1_Art66__288
 ArtCl1_Art66__289
 ArtCl1_Art66__290
-ArtCl1_Art66__30
 ArtCl1_Art66__302
 ArtCl1_Art66__303
 ArtCl1_Art66__306
@@ -361,7 +359,6 @@ ArtCl7_Art119__137
 ArtCl7_Art119__14
 ArtCl7_Art119__15
 ArtCl7_Art119__155
-ArtCl7_Art119__156
 ArtCl7_Art119__16
 ArtCl7_Art119__169
 ArtCl7_Art119__17
@@ -537,7 +534,6 @@ ArtCl6_Art2003__43
 ArtCl6_Art2003__44
 ArtCl6_Art2003__46
 ArtCl6_Art2003__50
-ArtCl6_Art2003__51
 ArtCl6_Art2003__55
 ArtCl6_Art2003__56
 ArtCl6_Art2003__57
@@ -600,7 +596,6 @@ ArtCl3_Art295__7
 ArtCl3_Art295__73
 ArtCl3_Art295__74
 ArtCl1_Art50__11
-ArtCl1_Art50__13
 ArtCl1_Art50__14
 ArtCl1_Art50__15
 ArtCl1_Art50__17
@@ -617,7 +612,6 @@ ArtCl1_Art50__35
 ArtCl1_Art50__38
 ArtCl1_Art50__4
 ArtCl1_Art50__41
-ArtCl1_Art50__42
 ArtCl1_Art50__43
 ArtCl1_Art50__44
 ArtCl1_Art50__45
@@ -625,7 +619,6 @@ ArtCl1_Art50__46
 ArtCl1_Art50__47
 ArtCl1_Art50__48
 ArtCl1_Art50__49
-ArtCl1_Art50__5
 ArtCl1_Art50__50
 ArtCl1_Art50__52
 ArtCl1_Art50__54
@@ -758,7 +751,6 @@ ArtCl1_Art12__5
 ArtCl1_Art12__54
 ArtCl1_Art12__6
 ArtCl1_Art12__60
-ArtCl1_Art12__61
 ArtCl1_Art12__66
 ArtCl1_Art12__7
 ArtCl1_Art12__8
@@ -815,7 +807,6 @@ ArtCl6_Art1964__257
 ArtCl6_Art1964__26
 ArtCl6_Art1964__261
 ArtCl6_Art1964__262
-ArtCl6_Art1964__32
 ArtCl6_Art1964__39
 ArtCl6_Art1964__41
 ArtCl6_Art1964__45
@@ -889,7 +880,6 @@ ArtCl7_Art15__176
 ArtCl7_Art15__177
 ArtCl7_Art15__178
 ArtCl7_Art15__179
-ArtCl7_Art15__18
 ArtCl7_Art15__180
 ArtCl7_Art15__181
 ArtCl7_Art15__182
@@ -906,7 +896,6 @@ ArtCl7_Art15__195
 ArtCl7_Art15__197
 ArtCl7_Art15__199
 ArtCl7_Art15__2
-ArtCl7_Art15__20
 ArtCl7_Art15__200
 ArtCl7_Art15__202
 ArtCl7_Art15__203
@@ -977,7 +966,6 @@ ArtCl7_Art15__3
 ArtCl7_Art15__32
 ArtCl7_Art15__34
 ArtCl7_Art15__35
-ArtCl7_Art15__37
 ArtCl7_Art15__4
 ArtCl7_Art15__40
 ArtCl7_Art15__41
@@ -1276,9 +1264,7 @@ ArtCl6_Art24__28
 ArtCl6_Art24__31
 ArtCl6_Art24__33
 ArtCl6_Art24__35
-ArtCl6_Art24__37
 ArtCl6_Art24__45
-ArtCl6_Art24__47
 ArtCl6_Art24__50
 ArtCl6_Art24__51
 ArtCl6_Art24__54
@@ -1298,7 +1284,6 @@ ArtCl6_Art22__20
 ArtCl6_Art22__21
 ArtCl6_Art22__22
 ArtCl6_Art22__27
-ArtCl6_Art22__31
 ArtCl6_Art22__33
 ArtCl6_Art22__34
 ArtCl6_Art22__38
@@ -1355,13 +1340,10 @@ ArtCl7_Art105__158
 ArtCl7_Art105__159
 ArtCl7_Art105__16
 ArtCl7_Art105__160
-ArtCl7_Art105__162
 ArtCl7_Art105__163
 ArtCl7_Art105__164
 ArtCl7_Art105__166
 ArtCl7_Art105__167
-ArtCl7_Art105__168
-ArtCl7_Art105__169
 ArtCl7_Art105__17
 ArtCl7_Art105__172
 ArtCl7_Art105__175
@@ -1412,7 +1394,6 @@ ArtCl7_Art105__83
 ArtCl7_Art105__84
 ArtCl7_Art105__88
 ArtCl7_Art105__9
-ArtCl7_Art105__94
 ArtCl7_Art105__99
 ArtCl7_Art59__115
 ArtCl7_Art59__116
@@ -1427,7 +1408,6 @@ ArtCl7_Art59__134
 ArtCl7_Art59__138
 ArtCl7_Art59__145
 ArtCl7_Art59__149
-ArtCl7_Art59__150
 ArtCl7_Art59__154
 ArtCl7_Art59__157
 ArtCl7_Art59__158
@@ -1455,11 +1435,8 @@ ArtCl7_Art59__52
 ArtCl7_Art59__54
 ArtCl7_Art59__55
 ArtCl7_Art59__56
-ArtCl7_Art59__59
-ArtCl7_Art59__60
 ArtCl7_Art59__61
 ArtCl7_Art59__62
-ArtCl7_Art59__63
 ArtCl7_Art59__64
 ArtCl7_Art59__67
 ArtCl7_Art59__68
@@ -1470,7 +1447,6 @@ ArtCl7_Art59__75
 ArtCl7_Art59__77
 ArtCl7_Art59__78
 ArtCl7_Art59__79
-ArtCl7_Art59__93
 ArtCl7_Art43__100
 ArtCl7_Art43__101
 ArtCl7_Art43__103
@@ -1768,7 +1744,6 @@ ArtCl7_Art43__96
 ArtCl7_Art43__99
 ArtCl7_Art34__0
 ArtCl7_Art34__110
-ArtCl7_Art34__112
 ArtCl7_Art34__116
 ArtCl7_Art34__12
 ArtCl7_Art34__120
@@ -1788,7 +1763,6 @@ ArtCl7_Art34__163
 ArtCl7_Art34__17
 ArtCl7_Art34__170
 ArtCl7_Art34__173
-ArtCl7_Art34__174
 ArtCl7_Art34__175
 ArtCl7_Art34__176
 ArtCl7_Art34__178
@@ -1954,7 +1928,6 @@ ArtCl7_Art56__48
 ArtCl7_Art56__5
 ArtCl7_Art56__56
 ArtCl7_Art56__57
-ArtCl7_Art56__6
 ArtCl7_Art56__63
 ArtCl7_Art56__64
 ArtCl7_Art56__65
@@ -2083,7 +2056,6 @@ ArtCl4_Art123__190
 ArtCl4_Art123__193
 ArtCl4_Art123__203
 ArtCl4_Art123__205
-ArtCl4_Art123__36
 ArtCl4_Art123__65
 ArtCl4_Art123__69
 ArtCl4_Art123__92
@@ -2188,7 +2160,6 @@ ArtCl7_Art120__126
 ArtCl7_Art120__128
 ArtCl7_Art120__129
 ArtCl7_Art120__13
-ArtCl7_Art120__130
 ArtCl7_Art120__131
 ArtCl7_Art120__136
 ArtCl7_Art120__139
@@ -2328,7 +2299,6 @@ ArtCl7_Art99__223
 ArtCl7_Art99__227
 ArtCl7_Art99__230
 ArtCl7_Art99__239
-ArtCl7_Art99__251
 ArtCl7_Art99__252
 ArtCl7_Art99__254
 ArtCl7_Art99__257
@@ -2354,7 +2324,6 @@ ArtCl7_Art99__311
 ArtCl7_Art99__313
 ArtCl7_Art99__315
 ArtCl7_Art99__33
-ArtCl7_Art99__47
 ArtCl7_Art99__74
 ArtCl7_Art99__85
 ArtCl6_Art2005__0
@@ -2469,7 +2438,6 @@ ArtCl2_Art10__69
 ArtCl2_Art10__7
 ArtCl2_Art10__70
 ArtCl2_Art10__72
-ArtCl2_Art10__74
 ArtCl2_Art10__75
 ArtCl2_Art10__77
 ArtCl2_Art10__8
@@ -2485,7 +2453,6 @@ ArtCl7_Art114__0
 ArtCl7_Art114__100
 ArtCl7_Art114__102
 ArtCl7_Art114__103
-ArtCl7_Art114__104
 ArtCl7_Art114__106
 ArtCl7_Art114__111
 ArtCl7_Art114__112
@@ -2499,7 +2466,6 @@ ArtCl7_Art114__127
 ArtCl7_Art114__128
 ArtCl7_Art114__129
 ArtCl7_Art114__130
-ArtCl7_Art114__132
 ArtCl7_Art114__136
 ArtCl7_Art114__137
 ArtCl7_Art114__14
@@ -2801,7 +2767,6 @@ ArtCl7_Art12__182
 ArtCl7_Art12__183
 ArtCl7_Art12__184
 ArtCl7_Art12__187
-ArtCl7_Art12__188
 ArtCl7_Art12__192
 ArtCl7_Art12__202
 ArtCl7_Art12__204
@@ -2830,7 +2795,6 @@ ArtCl7_Art12__321
 ArtCl7_Art12__322
 ArtCl7_Art12__323
 ArtCl7_Art12__324
-ArtCl7_Art12__325
 ArtCl7_Art12__326
 ArtCl7_Art12__327
 ArtCl7_Art12__328
@@ -2859,7 +2823,6 @@ ArtCl7_Art12__363
 ArtCl7_Art12__364
 ArtCl7_Art12__365
 ArtCl7_Art12__366
-ArtCl7_Art12__367
 ArtCl7_Art12__368
 ArtCl7_Art12__369
 ArtCl7_Art12__370
@@ -2869,7 +2832,6 @@ ArtCl7_Art12__374
 ArtCl7_Art12__375
 ArtCl7_Art12__376
 ArtCl7_Art12__377
-ArtCl7_Art12__378
 ArtCl7_Art12__38
 ArtCl7_Art12__380
 ArtCl7_Art12__382
@@ -2910,7 +2872,6 @@ ArtCl7_Art12__428
 ArtCl7_Art12__429
 ArtCl7_Art12__43
 ArtCl7_Art12__433
-ArtCl7_Art12__434
 ArtCl7_Art12__438
 ArtCl7_Art12__441
 ArtCl7_Art12__442
@@ -2972,7 +2933,6 @@ ArtCl7_Art97__134
 ArtCl7_Art97__135
 ArtCl7_Art97__14
 ArtCl7_Art97__141
-ArtCl7_Art97__144
 ArtCl7_Art97__146
 ArtCl7_Art97__147
 ArtCl7_Art97__149
@@ -3071,7 +3031,6 @@ ArtCl2_Art4__248
 ArtCl2_Art4__25
 ArtCl2_Art4__26
 ArtCl2_Art4__3
-ArtCl2_Art4__30
 ArtCl2_Art4__33
 ArtCl2_Art4__34
 ArtCl2_Art4__35
@@ -3179,12 +3138,9 @@ ArtCl6_Art20__127
 ArtCl6_Art20__129
 ArtCl6_Art20__134
 ArtCl6_Art20__136
-ArtCl6_Art20__138
 ArtCl6_Art20__139
-ArtCl6_Art20__151
 ArtCl6_Art20__159
 ArtCl6_Art20__161
-ArtCl6_Art20__163
 ArtCl6_Art20__165
 ArtCl6_Art20__169
 ArtCl6_Art20__170
@@ -3213,7 +3169,6 @@ ArtCl7_Art58__106
 ArtCl7_Art58__107
 ArtCl7_Art58__108
 ArtCl7_Art58__111
-ArtCl7_Art58__113
 ArtCl7_Art58__114
 ArtCl7_Art58__115
 ArtCl7_Art58__116
@@ -3311,7 +3266,6 @@ ArtCl1_Art22__186
 ArtCl1_Art22__187
 ArtCl1_Art22__199
 ArtCl1_Art22__20
-ArtCl1_Art22__200
 ArtCl1_Art22__201
 ArtCl1_Art22__202
 ArtCl1_Art22__205
@@ -3326,17 +3280,13 @@ ArtCl1_Art22__225
 ArtCl1_Art22__226
 ArtCl1_Art22__227
 ArtCl1_Art22__23
-ArtCl1_Art22__37
 ArtCl1_Art22__40
 ArtCl1_Art22__41
 ArtCl1_Art22__53
-ArtCl1_Art22__67
 ArtCl1_Art22__70
 ArtCl1_Art22__71
 ArtCl1_Art22__72
-ArtCl1_Art22__73
 ArtCl1_Art22__74
-ArtCl1_Art22__75
 ArtCl1_Art22__76
 ArtCl1_Art22__77
 ArtCl1_Art22__78
@@ -3398,10 +3348,8 @@ ArtCl7_Art77__104
 ArtCl7_Art77__107
 ArtCl7_Art77__110
 ArtCl7_Art77__112
-ArtCl7_Art77__114
 ArtCl7_Art77__115
 ArtCl7_Art77__116
-ArtCl7_Art77__117
 ArtCl7_Art77__121
 ArtCl7_Art77__122
 ArtCl7_Art77__123
@@ -3605,7 +3553,6 @@ ArtCl3_Art291__125
 ArtCl3_Art291__126
 ArtCl3_Art291__127
 ArtCl3_Art291__129
-ArtCl3_Art291__13
 ArtCl3_Art291__131
 ArtCl3_Art291__132
 ArtCl3_Art291__133
@@ -3624,7 +3571,6 @@ ArtCl3_Art291__22
 ArtCl3_Art291__23
 ArtCl3_Art291__25
 ArtCl3_Art291__26
-ArtCl3_Art291__27
 ArtCl3_Art291__28
 ArtCl3_Art291__29
 ArtCl3_Art291__3
@@ -3652,7 +3598,6 @@ ArtCl3_Art291__59
 ArtCl3_Art291__6
 ArtCl3_Art291__61
 ArtCl3_Art291__62
-ArtCl3_Art291__64
 ArtCl3_Art291__65
 ArtCl3_Art291__66
 ArtCl3_Art291__67
@@ -3673,7 +3618,6 @@ ArtCl3_Art291__84
 ArtCl3_Art291__85
 ArtCl3_Art291__9
 ArtCl3_Art291__90
-ArtCl3_Art291__92
 ArtCl3_Art291__93
 ArtCl3_Art291__97
 ArtCl3_Art291__98
@@ -3725,7 +3669,6 @@ ArtCl3_Art303__196
 ArtCl3_Art303__197
 ArtCl3_Art303__198
 ArtCl3_Art303__199
-ArtCl3_Art303__20
 ArtCl3_Art303__210
 ArtCl3_Art303__22
 ArtCl3_Art303__23
@@ -3739,7 +3682,6 @@ ArtCl3_Art303__57
 ArtCl3_Art303__6
 ArtCl3_Art303__67
 ArtCl3_Art303__7
-ArtCl3_Art303__70
 ArtCl3_Art303__72
 ArtCl3_Art303__73
 ArtCl3_Art303__74
@@ -3846,7 +3788,6 @@ ArtCl5_Art2002__101
 ArtCl5_Art2002__102
 ArtCl5_Art2002__104
 ArtCl5_Art2002__105
-ArtCl5_Art2002__11
 ArtCl5_Art2002__110
 ArtCl5_Art2002__111
 ArtCl5_Art2002__112
@@ -3874,7 +3815,6 @@ ArtCl5_Art2002__147
 ArtCl5_Art2002__15
 ArtCl5_Art2002__150
 ArtCl5_Art2002__152
-ArtCl5_Art2002__153
 ArtCl5_Art2002__154
 ArtCl5_Art2002__156
 ArtCl5_Art2002__157
@@ -3908,7 +3848,6 @@ ArtCl5_Art2002__192
 ArtCl5_Art2002__193
 ArtCl5_Art2002__194
 ArtCl5_Art2002__195
-ArtCl5_Art2002__196
 ArtCl5_Art2002__198
 ArtCl5_Art2002__199
 ArtCl5_Art2002__2
@@ -3916,7 +3855,6 @@ ArtCl5_Art2002__20
 ArtCl5_Art2002__200
 ArtCl5_Art2002__202
 ArtCl5_Art2002__203
-ArtCl5_Art2002__204
 ArtCl5_Art2002__206
 ArtCl5_Art2002__21
 ArtCl5_Art2002__210
@@ -3949,10 +3887,8 @@ ArtCl5_Art2002__260
 ArtCl5_Art2002__261
 ArtCl5_Art2002__262
 ArtCl5_Art2002__268
-ArtCl5_Art2002__279
 ArtCl5_Art2002__28
 ArtCl5_Art2002__280
-ArtCl5_Art2002__282
 ArtCl5_Art2002__284
 ArtCl5_Art2002__287
 ArtCl5_Art2002__288
@@ -4039,17 +3975,12 @@ ArtCl6_Art14__31
 ArtCl6_Art14__35
 ArtCl6_Art14__36
 ArtCl6_Art14__37
-ArtCl6_Art14__39
 ArtCl6_Art14__40
-ArtCl6_Art14__41
-ArtCl6_Art14__42
 ArtCl6_Art14__43
-ArtCl6_Art14__44
 ArtCl6_Art14__46
 ArtCl6_Art14__47
 ArtCl6_Art14__48
 ArtCl6_Art14__49
-ArtCl6_Art14__5
 ArtCl6_Art14__50
 ArtCl6_Art14__51
 ArtCl6_Art14__52
@@ -4058,10 +3989,7 @@ ArtCl6_Art14__59
 ArtCl6_Art14__6
 ArtCl6_Art14__60
 ArtCl6_Art14__62
-ArtCl6_Art14__68
-ArtCl6_Art14__7
 ArtCl6_Art14__71
-ArtCl6_Art14__73
 ArtCl6_Art14__75
 ArtCl6_Art14__8
 ArtCl6_Art14__9
@@ -4117,7 +4045,6 @@ ArtCl6_Art8__234
 ArtCl6_Art8__235
 ArtCl6_Art8__236
 ArtCl6_Art8__239
-ArtCl6_Art8__24
 ArtCl6_Art8__240
 ArtCl6_Art8__242
 ArtCl6_Art8__243
@@ -4130,7 +4057,6 @@ ArtCl6_Art8__252
 ArtCl6_Art8__257
 ArtCl6_Art8__258
 ArtCl6_Art8__259
-ArtCl6_Art8__26
 ArtCl6_Art8__261
 ArtCl6_Art8__263
 ArtCl6_Art8__264
@@ -4289,7 +4215,6 @@ ArtCl7_Art38__172
 ArtCl7_Art38__175
 ArtCl7_Art38__178
 ArtCl7_Art38__18
-ArtCl7_Art38__19
 ArtCl7_Art38__27
 ArtCl7_Art38__28
 ArtCl7_Art38__29
@@ -4319,7 +4244,6 @@ ArtCl7_Art38__70
 ArtCl7_Art38__72
 ArtCl7_Art38__73
 ArtCl7_Art38__74
-ArtCl7_Art38__75
 ArtCl7_Art38__76
 ArtCl7_Art38__84
 ArtCl7_Art38__91
@@ -4368,12 +4292,9 @@ ArtCl7_Art88__99
 ArtCl7_Art121__0
 ArtCl7_Art121__1
 ArtCl7_Art121__100
-ArtCl7_Art121__102
 ArtCl7_Art121__107
 ArtCl7_Art121__108
 ArtCl7_Art121__11
-ArtCl7_Art121__126
-ArtCl7_Art121__128
 ArtCl7_Art121__15
 ArtCl7_Art121__17
 ArtCl7_Art121__18
@@ -4615,7 +4536,6 @@ ArtCl7_Art26__19
 ArtCl7_Art26__22
 ArtCl7_Art26__23
 ArtCl7_Art26__24
-ArtCl7_Art26__25
 ArtCl7_Art26__26
 ArtCl7_Art26__27
 ArtCl7_Art26__28
@@ -4697,7 +4617,6 @@ ArtCl7_Art1999__80
 ArtCl7_Art1999__92
 ArtCl7_Art1999__93
 ArtCl7_Art1999__94
-ArtCl7_Art125__0
 ArtCl7_Art125__10
 ArtCl7_Art125__102
 ArtCl7_Art125__103
@@ -4708,12 +4627,8 @@ ArtCl7_Art125__16
 ArtCl7_Art125__18
 ArtCl7_Art125__19
 ArtCl7_Art125__2
-ArtCl7_Art125__21
-ArtCl7_Art125__22
-ArtCl7_Art125__24
 ArtCl7_Art125__25
 ArtCl7_Art125__28
-ArtCl7_Art125__29
 ArtCl7_Art125__30
 ArtCl7_Art125__33
 ArtCl7_Art125__4
@@ -4721,8 +4636,6 @@ ArtCl7_Art125__40
 ArtCl7_Art125__42
 ArtCl7_Art125__44
 ArtCl7_Art125__45
-ArtCl7_Art125__46
-ArtCl7_Art125__51
 ArtCl7_Art125__56
 ArtCl7_Art125__6
 ArtCl7_Art125__60
@@ -4735,7 +4648,6 @@ ArtCl7_Art125__78
 ArtCl7_Art125__8
 ArtCl7_Art125__82
 ArtCl7_Art125__91
-ArtCl7_Art125__95
 ArtCl7_Art125__96
 ArtCl6_Art1986__0
 ArtCl6_Art1986__106
@@ -4749,7 +4661,6 @@ ArtCl6_Art1986__134
 ArtCl6_Art1986__147
 ArtCl6_Art1986__153
 ArtCl6_Art1986__154
-ArtCl6_Art1986__17
 ArtCl6_Art1986__22
 ArtCl6_Art1986__23
 ArtCl6_Art1986__25
@@ -4800,7 +4711,6 @@ ArtCl7_Art29__71
 ArtCl7_Art29__72
 ArtCl7_Art29__73
 ArtCl7_Art29__74
-ArtCl7_Art29__76
 ArtCl7_Art29__78
 ArtCl7_Art29__79
 ArtCl7_Art29__8
@@ -4816,7 +4726,6 @@ ArtCl7_Art29__90
 ArtCl7_Art29__92
 ArtCl7_Art29__95
 ArtCl7_Art29__96
-ArtCl7_Art29__98
 ArtCl7_Art29__99
 ArtCl7_Art2014__0
 ArtCl7_Art2014__11
@@ -4837,9 +4746,7 @@ ArtCl7_Art2014__33
 ArtCl7_Art2014__34
 ArtCl7_Art2014__35
 ArtCl7_Art2014__36
-ArtCl7_Art2014__37
 ArtCl7_Art2014__4
-ArtCl7_Art2014__40
 ArtCl7_Art2014__46
 ArtCl7_Art2014__5
 ArtCl7_Art2014__51
@@ -4985,7 +4892,6 @@ ArtCl4_Art7__11
 ArtCl4_Art7__112
 ArtCl4_Art7__119
 ArtCl4_Art7__120
-ArtCl4_Art7__121
 ArtCl4_Art7__122
 ArtCl4_Art7__133
 ArtCl4_Art7__136
@@ -5075,7 +4981,6 @@ ArtCl7_Art47__188
 ArtCl7_Art47__191
 ArtCl7_Art47__196
 ArtCl7_Art47__197
-ArtCl7_Art47__218
 ArtCl7_Art47__251
 ArtCl7_Art47__28
 ArtCl7_Art47__32
@@ -5134,7 +5039,6 @@ ArtCl6_Art16__262
 ArtCl6_Art16__281
 ArtCl6_Art16__284
 ArtCl6_Art16__286
-ArtCl6_Art16__293
 ArtCl6_Art16__3
 ArtCl6_Art16__300
 ArtCl6_Art16__4
@@ -5146,7 +5050,6 @@ ArtCl6_Art16__48
 ArtCl6_Art16__49
 ArtCl6_Art16__5
 ArtCl6_Art16__50
-ArtCl6_Art16__52
 ArtCl6_Art16__53
 ArtCl6_Art16__56
 ArtCl6_Art16__57
@@ -5230,7 +5133,6 @@ ArtCl7_Art41__49
 ArtCl7_Art41__50
 ArtCl7_Art41__53
 ArtCl7_Art41__54
-ArtCl7_Art41__59
 ArtCl7_Art41__6
 ArtCl7_Art41__60
 ArtCl7_Art41__62
@@ -5240,7 +5142,6 @@ ArtCl7_Art41__67
 ArtCl7_Art41__68
 ArtCl7_Art41__69
 ArtCl7_Art41__70
-ArtCl7_Art41__74
 ArtCl7_Art41__75
 ArtCl7_Art41__78
 ArtCl7_Art41__79
@@ -5290,7 +5191,6 @@ ArtCl2_Art6__152
 ArtCl2_Art6__153
 ArtCl2_Art6__155
 ArtCl2_Art6__156
-ArtCl2_Art6__157
 ArtCl2_Art6__158
 ArtCl2_Art6__159
 ArtCl2_Art6__16
@@ -5299,7 +5199,6 @@ ArtCl2_Art6__163
 ArtCl2_Art6__169
 ArtCl2_Art6__17
 ArtCl2_Art6__172
-ArtCl2_Art6__174
 ArtCl2_Art6__175
 ArtCl2_Art6__18
 ArtCl2_Art6__182
@@ -5337,7 +5236,6 @@ ArtCl2_Art6__241
 ArtCl2_Art6__243
 ArtCl2_Art6__244
 ArtCl2_Art6__245
-ArtCl2_Art6__249
 ArtCl2_Art6__25
 ArtCl2_Art6__250
 ArtCl2_Art6__251
@@ -5361,7 +5259,6 @@ ArtCl2_Art6__45
 ArtCl2_Art6__46
 ArtCl2_Art6__47
 ArtCl2_Art6__49
-ArtCl2_Art6__5
 ArtCl2_Art6__50
 ArtCl2_Art6__51
 ArtCl2_Art6__56
@@ -5440,7 +5337,6 @@ ArtCl7_Art2003__188
 ArtCl7_Art2003__19
 ArtCl7_Art2003__193
 ArtCl7_Art2003__195
-ArtCl7_Art2003__196
 ArtCl7_Art2003__198
 ArtCl7_Art2003__199
 ArtCl7_Art2003__2
@@ -5461,7 +5357,6 @@ ArtCl7_Art2003__23
 ArtCl7_Art2003__26
 ArtCl7_Art2003__27
 ArtCl7_Art2003__3
-ArtCl7_Art2003__30
 ArtCl7_Art2003__31
 ArtCl7_Art2003__32
 ArtCl7_Art2003__35
@@ -5522,7 +5417,6 @@ ArtCl7_Art129__146
 ArtCl7_Art129__149
 ArtCl7_Art129__150
 ArtCl7_Art129__154
-ArtCl7_Art129__155
 ArtCl7_Art129__157
 ArtCl7_Art129__158
 ArtCl7_Art129__160
@@ -5693,7 +5587,6 @@ ArtCl3_Art12__22
 ArtCl3_Art12__24
 ArtCl3_Art12__26
 ArtCl3_Art12__27
-ArtCl3_Art12__32
 ArtCl3_Art12__35
 ArtCl3_Art12__36
 ArtCl3_Art12__37
@@ -5709,7 +5602,6 @@ ArtCl3_Art12__48
 ArtCl3_Art12__49
 ArtCl3_Art12__50
 ArtCl3_Art12__52
-ArtCl3_Art12__53
 ArtCl3_Art12__55
 ArtCl3_Art12__56
 ArtCl3_Art12__59
@@ -5734,7 +5626,6 @@ ArtCl3_Art12__90
 ArtCl3_Art12__91
 ArtCl3_Art12__92
 ArtCl3_Art12__94
-ArtCl3_Art12__98
 ArtCl3_Art12__99
 ArtCl7_Art6__11
 ArtCl7_Art6__119
@@ -5749,7 +5640,6 @@ ArtCl7_Art6__135
 ArtCl7_Art6__140
 ArtCl7_Art6__143
 ArtCl7_Art6__146
-ArtCl7_Art6__147
 ArtCl7_Art6__150
 ArtCl7_Art6__159
 ArtCl7_Art6__16
@@ -5775,7 +5665,6 @@ ArtCl7_Art6__42
 ArtCl7_Art6__43
 ArtCl7_Art6__44
 ArtCl7_Art6__45
-ArtCl7_Art6__46
 ArtCl7_Art6__47
 ArtCl7_Art6__48
 ArtCl7_Art6__49
@@ -5916,7 +5805,6 @@ ArtCl7_Art32__194
 ArtCl7_Art32__195
 ArtCl7_Art32__196
 ArtCl7_Art32__198
-ArtCl7_Art32__199
 ArtCl7_Art32__200
 ArtCl7_Art32__21
 ArtCl7_Art32__26
@@ -5970,7 +5858,6 @@ ArtCl7_Art2010__131
 ArtCl7_Art2010__134
 ArtCl7_Art2010__139
 ArtCl7_Art2010__14
-ArtCl7_Art2010__140
 ArtCl7_Art2010__143
 ArtCl7_Art2010__145
 ArtCl7_Art2010__16
@@ -6016,7 +5903,6 @@ ArtCl6_Art1996__104
 ArtCl6_Art1996__105
 ArtCl6_Art1996__107
 ArtCl6_Art1996__108
-ArtCl6_Art1996__109
 ArtCl6_Art1996__110
 ArtCl6_Art1996__112
 ArtCl6_Art1996__121
@@ -6175,14 +6061,10 @@ ArtCl7_Art72__121
 ArtCl7_Art72__122
 ArtCl7_Art72__124
 ArtCl7_Art72__125
-ArtCl7_Art72__126
-ArtCl7_Art72__127
 ArtCl7_Art72__128
 ArtCl7_Art72__129
 ArtCl7_Art72__13
 ArtCl7_Art72__130
-ArtCl7_Art72__132
-ArtCl7_Art72__133
 ArtCl7_Art72__134
 ArtCl7_Art72__135
 ArtCl7_Art72__136
@@ -6202,7 +6084,6 @@ ArtCl7_Art72__16
 ArtCl7_Art72__165
 ArtCl7_Art72__166
 ArtCl7_Art72__167
-ArtCl7_Art72__168
 ArtCl7_Art72__170
 ArtCl7_Art72__171
 ArtCl7_Art72__175
@@ -6341,15 +6222,12 @@ ArtCl7_Art95__124
 ArtCl7_Art95__125
 ArtCl7_Art95__126
 ArtCl7_Art95__127
-ArtCl7_Art95__128
 ArtCl7_Art95__129
 ArtCl7_Art95__13
 ArtCl7_Art95__130
 ArtCl7_Art95__131
 ArtCl7_Art95__132
-ArtCl7_Art95__133
 ArtCl7_Art95__134
-ArtCl7_Art95__135
 ArtCl7_Art95__139
 ArtCl7_Art95__14
 ArtCl7_Art95__140
@@ -6366,7 +6244,6 @@ ArtCl7_Art95__156
 ArtCl7_Art95__158
 ArtCl7_Art95__16
 ArtCl7_Art95__160
-ArtCl7_Art95__166
 ArtCl7_Art95__167
 ArtCl7_Art95__168
 ArtCl7_Art95__169
@@ -6399,7 +6276,6 @@ ArtCl7_Art95__39
 ArtCl7_Art95__40
 ArtCl7_Art95__42
 ArtCl7_Art95__43
-ArtCl7_Art95__44
 ArtCl7_Art95__45
 ArtCl7_Art95__46
 ArtCl7_Art95__49
@@ -6516,7 +6392,6 @@ ArtCl6_Art1979__135
 ArtCl6_Art1979__15
 ArtCl6_Art1979__16
 ArtCl6_Art1979__17
-ArtCl6_Art1979__19
 ArtCl6_Art1979__2
 ArtCl6_Art1979__20
 ArtCl6_Art1979__21
@@ -6648,7 +6523,6 @@ ArtCl6_Art18__119
 ArtCl6_Art18__12
 ArtCl6_Art18__121
 ArtCl6_Art18__122
-ArtCl6_Art18__123
 ArtCl6_Art18__124
 ArtCl6_Art18__126
 ArtCl6_Art18__13
@@ -6723,7 +6597,6 @@ ArtCl6_Art18__240
 ArtCl6_Art18__241
 ArtCl6_Art18__242
 ArtCl6_Art18__243
-ArtCl6_Art18__244
 ArtCl6_Art18__245
 ArtCl6_Art18__246
 ArtCl6_Art18__247
@@ -6738,7 +6611,6 @@ ArtCl6_Art18__26
 ArtCl6_Art18__27
 ArtCl6_Art18__28
 ArtCl6_Art18__29
-ArtCl6_Art18__3
 ArtCl6_Art18__31
 ArtCl6_Art18__32
 ArtCl6_Art18__34
@@ -6803,7 +6675,6 @@ ArtCl4_Art1989__112
 ArtCl4_Art1989__113
 ArtCl4_Art1989__114
 ArtCl4_Art1989__115
-ArtCl4_Art1989__116
 ArtCl4_Art1989__117
 ArtCl4_Art1989__118
 ArtCl4_Art1989__12
@@ -6814,7 +6685,6 @@ ArtCl4_Art1989__13
 ArtCl4_Art1989__133
 ArtCl4_Art1989__134
 ArtCl4_Art1989__136
-ArtCl4_Art1989__144
 ArtCl4_Art1989__145
 ArtCl4_Art1989__146
 ArtCl4_Art1989__149
@@ -6850,7 +6720,6 @@ ArtCl4_Art1989__39
 ArtCl4_Art1989__4
 ArtCl4_Art1989__41
 ArtCl4_Art1989__47
-ArtCl4_Art1989__48
 ArtCl4_Art1989__5
 ArtCl4_Art1989__50
 ArtCl4_Art1989__51
@@ -6990,10 +6859,8 @@ ArtCl1_Art72__116
 ArtCl1_Art72__1164
 ArtCl1_Art72__1168
 ArtCl1_Art72__1169
-ArtCl1_Art72__118
 ArtCl1_Art72__119
 ArtCl1_Art72__12
-ArtCl1_Art72__120
 ArtCl1_Art72__121
 ArtCl1_Art72__122
 ArtCl1_Art72__123
@@ -7003,7 +6870,6 @@ ArtCl1_Art72__127
 ArtCl1_Art72__128
 ArtCl1_Art72__129
 ArtCl1_Art72__13
-ArtCl1_Art72__133
 ArtCl1_Art72__135
 ArtCl1_Art72__136
 ArtCl1_Art72__137
@@ -7015,7 +6881,6 @@ ArtCl1_Art72__141
 ArtCl1_Art72__143
 ArtCl1_Art72__145
 ArtCl1_Art72__146
-ArtCl1_Art72__147
 ArtCl1_Art72__149
 ArtCl1_Art72__150
 ArtCl1_Art72__151
@@ -7047,7 +6912,6 @@ ArtCl1_Art72__181
 ArtCl1_Art72__183
 ArtCl1_Art72__184
 ArtCl1_Art72__185
-ArtCl1_Art72__186
 ArtCl1_Art72__187
 ArtCl1_Art72__188
 ArtCl1_Art72__189
@@ -7127,7 +6991,6 @@ ArtCl1_Art72__29
 ArtCl1_Art72__291
 ArtCl1_Art72__293
 ArtCl1_Art72__294
-ArtCl1_Art72__297
 ArtCl1_Art72__298
 ArtCl1_Art72__299
 ArtCl1_Art72__3
@@ -7144,7 +7007,6 @@ ArtCl1_Art72__31
 ArtCl1_Art72__313
 ArtCl1_Art72__315
 ArtCl1_Art72__316
-ArtCl1_Art72__317
 ArtCl1_Art72__318
 ArtCl1_Art72__319
 ArtCl1_Art72__32
@@ -7167,7 +7029,6 @@ ArtCl1_Art72__338
 ArtCl1_Art72__339
 ArtCl1_Art72__34
 ArtCl1_Art72__340
-ArtCl1_Art72__342
 ArtCl1_Art72__343
 ArtCl1_Art72__344
 ArtCl1_Art72__348
@@ -7257,7 +7118,6 @@ ArtCl1_Art72__459
 ArtCl1_Art72__46
 ArtCl1_Art72__460
 ArtCl1_Art72__461
-ArtCl1_Art72__464
 ArtCl1_Art72__465
 ArtCl1_Art72__466
 ArtCl1_Art72__467
@@ -7301,7 +7161,6 @@ ArtCl1_Art72__517
 ArtCl1_Art72__518
 ArtCl1_Art72__52
 ArtCl1_Art72__520
-ArtCl1_Art72__521
 ArtCl1_Art72__523
 ArtCl1_Art72__524
 ArtCl1_Art72__525
@@ -7331,7 +7190,6 @@ ArtCl1_Art72__551
 ArtCl1_Art72__552
 ArtCl1_Art72__553
 ArtCl1_Art72__555
-ArtCl1_Art72__556
 ArtCl1_Art72__558
 ArtCl1_Art72__559
 ArtCl1_Art72__560
@@ -7361,14 +7219,11 @@ ArtCl1_Art72__59
 ArtCl1_Art72__590
 ArtCl1_Art72__592
 ArtCl1_Art72__593
-ArtCl1_Art72__594
 ArtCl1_Art72__595
 ArtCl1_Art72__596
 ArtCl1_Art72__597
 ArtCl1_Art72__598
-ArtCl1_Art72__599
 ArtCl1_Art72__6
-ArtCl1_Art72__60
 ArtCl1_Art72__600
 ArtCl1_Art72__602
 ArtCl1_Art72__603
@@ -7500,7 +7355,6 @@ ArtCl1_Art72__760
 ArtCl1_Art72__761
 ArtCl1_Art72__762
 ArtCl1_Art72__763
-ArtCl1_Art72__765
 ArtCl1_Art72__766
 ArtCl1_Art72__767
 ArtCl1_Art72__769
@@ -7548,7 +7402,6 @@ ArtCl1_Art72__817
 ArtCl1_Art72__818
 ArtCl1_Art72__819
 ArtCl1_Art72__820
-ArtCl1_Art72__822
 ArtCl1_Art72__823
 ArtCl1_Art72__826
 ArtCl1_Art72__829
@@ -7663,7 +7516,6 @@ ArtCl1_Art72__97
 ArtCl1_Art72__970
 ArtCl1_Art72__971
 ArtCl1_Art72__972
-ArtCl1_Art72__973
 ArtCl1_Art72__974
 ArtCl1_Art72__975
 ArtCl1_Art72__976
@@ -7804,17 +7656,14 @@ ArtCl5_Art1__2
 ArtCl5_Art1__26
 ArtCl5_Art1__28
 ArtCl5_Art1__29
-ArtCl5_Art1__3
 ArtCl5_Art1__34
 ArtCl5_Art1__35
 ArtCl5_Art1__36
 ArtCl5_Art1__37
 ArtCl5_Art1__38
 ArtCl5_Art1__39
-ArtCl5_Art1__4
 ArtCl5_Art1__40
 ArtCl5_Art1__41
-ArtCl5_Art1__42
 ArtCl5_Art1__43
 ArtCl5_Art1__44
 ArtCl5_Art1__45
@@ -7833,7 +7682,6 @@ ArtCl5_Art1__63
 ArtCl5_Art1__64
 ArtCl5_Art1__65
 ArtCl5_Art1__66
-ArtCl5_Art1__7
 ArtCl5_Art1__70
 ArtCl5_Art1__74
 ArtCl5_Art1__76
@@ -7953,11 +7801,8 @@ ArtCl7_Art1974__148
 ArtCl7_Art1974__149
 ArtCl7_Art1974__15
 ArtCl7_Art1974__150
-ArtCl7_Art1974__151
-ArtCl7_Art1974__152
 ArtCl7_Art1974__155
 ArtCl7_Art1974__158
-ArtCl7_Art1974__159
 ArtCl7_Art1974__162
 ArtCl7_Art1974__163
 ArtCl7_Art1974__17
@@ -7971,7 +7816,6 @@ ArtCl7_Art1974__183
 ArtCl7_Art1974__185
 ArtCl7_Art1974__187
 ArtCl7_Art1974__189
-ArtCl7_Art1974__197
 ArtCl7_Art1974__198
 ArtCl7_Art1974__200
 ArtCl7_Art1974__207
@@ -7981,10 +7825,8 @@ ArtCl7_Art1974__215
 ArtCl7_Art1974__217
 ArtCl7_Art1974__218
 ArtCl7_Art1974__219
-ArtCl7_Art1974__221
 ArtCl7_Art1974__229
 ArtCl7_Art1974__23
-ArtCl7_Art1974__238
 ArtCl7_Art1974__240
 ArtCl7_Art1974__27
 ArtCl7_Art1974__28
@@ -7995,7 +7837,6 @@ ArtCl7_Art1974__4
 ArtCl7_Art1974__40
 ArtCl7_Art1974__41
 ArtCl7_Art1974__43
-ArtCl7_Art1974__45
 ArtCl7_Art1974__46
 ArtCl7_Art1974__5
 ArtCl7_Art1974__58
@@ -8062,14 +7903,11 @@ ArtCl7_Art9__190
 ArtCl7_Art9__191
 ArtCl7_Art9__193
 ArtCl7_Art9__25
-ArtCl7_Art9__26
 ArtCl7_Art9__27
 ArtCl7_Art9__29
 ArtCl7_Art9__30
-ArtCl7_Art9__31
 ArtCl7_Art9__32
 ArtCl7_Art9__33
-ArtCl7_Art9__35
 ArtCl7_Art9__38
 ArtCl7_Art9__41
 ArtCl7_Art9__42
@@ -8108,7 +7946,6 @@ ArtCl7_Art9__91
 ArtCl7_Art9__92
 ArtCl7_Art9__94
 ArtCl7_Art9__95
-ArtCl7_Art39__0
 ArtCl7_Art39__1
 ArtCl7_Art39__10
 ArtCl7_Art39__101
@@ -8173,7 +8010,6 @@ ArtCl7_Art39__24
 ArtCl7_Art39__25
 ArtCl7_Art39__26
 ArtCl7_Art39__27
-ArtCl7_Art39__28
 ArtCl7_Art39__3
 ArtCl7_Art39__30
 ArtCl7_Art39__31
@@ -8195,14 +8031,12 @@ ArtCl7_Art39__51
 ArtCl7_Art39__52
 ArtCl7_Art39__53
 ArtCl7_Art39__54
-ArtCl7_Art39__55
 ArtCl7_Art39__56
 ArtCl7_Art39__59
 ArtCl7_Art39__6
 ArtCl7_Art39__62
 ArtCl7_Art39__66
 ArtCl7_Art39__69
-ArtCl7_Art39__7
 ArtCl7_Art39__70
 ArtCl7_Art39__71
 ArtCl7_Art39__72
@@ -8240,19 +8074,15 @@ ArtCl7_Art2000__29
 ArtCl7_Art2000__3
 ArtCl7_Art2000__30
 ArtCl7_Art2000__36
-ArtCl7_Art2000__37
 ArtCl7_Art2000__4
 ArtCl7_Art2000__42
 ArtCl7_Art2000__44
 ArtCl7_Art2000__45
 ArtCl7_Art2000__5
-ArtCl7_Art2000__54
-ArtCl7_Art2000__55
 ArtCl7_Art2000__56
 ArtCl7_Art2000__59
 ArtCl7_Art2000__6
 ArtCl7_Art2000__61
-ArtCl7_Art2000__62
 ArtCl7_Art2000__67
 ArtCl7_Art2000__7
 ArtCl7_Art2000__71
@@ -8290,7 +8120,6 @@ ArtCl7_Art1991__117
 ArtCl7_Art1991__12
 ArtCl7_Art1991__120
 ArtCl7_Art1991__121
-ArtCl7_Art1991__122
 ArtCl7_Art1991__13
 ArtCl7_Art1991__14
 ArtCl7_Art1991__15
@@ -8332,11 +8161,9 @@ ArtCl7_Art1991__77
 ArtCl7_Art1991__78
 ArtCl7_Art1991__8
 ArtCl7_Art1991__80
-ArtCl7_Art1991__81
 ArtCl7_Art1991__82
 ArtCl7_Art1991__83
 ArtCl7_Art1991__84
-ArtCl7_Art1991__85
 ArtCl7_Art1991__89
 ArtCl7_Art1991__9
 ArtCl7_Art1991__90
@@ -8423,7 +8250,6 @@ ArtCl7_Art31__24
 ArtCl7_Art31__25
 ArtCl7_Art31__27
 ArtCl7_Art31__28
-ArtCl7_Art31__29
 ArtCl7_Art31__33
 ArtCl7_Art31__35
 ArtCl7_Art31__36
@@ -8451,7 +8277,6 @@ ArtCl7_Art31__7
 ArtCl7_Art31__70
 ArtCl7_Art31__71
 ArtCl7_Art31__73
-ArtCl7_Art31__74
 ArtCl7_Art31__76
 ArtCl7_Art31__77
 ArtCl7_Art31__78
@@ -8496,7 +8321,6 @@ ArtCl7_Art35__179
 ArtCl7_Art35__192
 ArtCl7_Art35__197
 ArtCl7_Art35__199
-ArtCl7_Art35__2
 ArtCl7_Art35__200
 ArtCl7_Art35__207
 ArtCl7_Art35__210
@@ -8538,7 +8362,6 @@ ArtCl7_Art35__344
 ArtCl7_Art35__355
 ArtCl7_Art35__372
 ArtCl7_Art35__377
-ArtCl7_Art35__38
 ArtCl7_Art35__4
 ArtCl7_Art35__40
 ArtCl7_Art35__43
@@ -8660,7 +8483,6 @@ ArtCl7_Art134__149
 ArtCl7_Art134__3
 ArtCl7_Art134__58
 ArtCl7_Art134__59
-ArtCl7_Art134__63
 ArtCl7_Art134__64
 ArtCl7_Art134__71
 ArtCl7_Art134__72
@@ -8682,7 +8504,6 @@ ArtCl3_Art302__108
 ArtCl3_Art302__109
 ArtCl3_Art302__110
 ArtCl3_Art302__111
-ArtCl3_Art302__116
 ArtCl3_Art302__117
 ArtCl3_Art302__12
 ArtCl3_Art302__123
@@ -8699,7 +8520,6 @@ ArtCl3_Art302__139
 ArtCl3_Art302__140
 ArtCl3_Art302__141
 ArtCl3_Art302__142
-ArtCl3_Art302__143
 ArtCl3_Art302__149
 ArtCl3_Art302__15
 ArtCl3_Art302__151
@@ -8724,8 +8544,6 @@ ArtCl3_Art302__171
 ArtCl3_Art302__172
 ArtCl3_Art302__173
 ArtCl3_Art302__174
-ArtCl3_Art302__175
-ArtCl3_Art302__176
 ArtCl3_Art302__177
 ArtCl3_Art302__180
 ArtCl3_Art302__188
@@ -8766,7 +8584,6 @@ ArtCl3_Art302__230
 ArtCl3_Art302__231
 ArtCl3_Art302__235
 ArtCl3_Art302__236
-ArtCl3_Art302__237
 ArtCl3_Art302__239
 ArtCl3_Art302__24
 ArtCl3_Art302__240
@@ -8807,7 +8624,6 @@ ArtCl3_Art302__284
 ArtCl3_Art302__285
 ArtCl3_Art302__286
 ArtCl3_Art302__287
-ArtCl3_Art302__29
 ArtCl3_Art302__291
 ArtCl3_Art302__293
 ArtCl3_Art302__294
@@ -8832,7 +8648,6 @@ ArtCl3_Art302__37
 ArtCl3_Art302__38
 ArtCl3_Art302__39
 ArtCl3_Art302__4
-ArtCl3_Art302__40
 ArtCl3_Art302__41
 ArtCl3_Art302__42
 ArtCl3_Art302__43
@@ -8842,12 +8657,10 @@ ArtCl3_Art302__46
 ArtCl3_Art302__47
 ArtCl3_Art302__48
 ArtCl3_Art302__49
-ArtCl3_Art302__5
 ArtCl3_Art302__50
 ArtCl3_Art302__53
 ArtCl3_Art302__56
 ArtCl3_Art302__57
-ArtCl3_Art302__6
 ArtCl3_Art302__62
 ArtCl3_Art302__64
 ArtCl3_Art302__66
@@ -8960,7 +8773,6 @@ ArtCl1_Art44__97
 ArtCl7_Art57__0
 ArtCl7_Art57__101
 ArtCl7_Art57__103
-ArtCl7_Art57__104
 ArtCl7_Art57__105
 ArtCl7_Art57__108
 ArtCl7_Art57__109
@@ -8990,7 +8802,6 @@ ArtCl7_Art57__142
 ArtCl7_Art57__145
 ArtCl7_Art57__146
 ArtCl7_Art57__147
-ArtCl7_Art57__148
 ArtCl7_Art57__149
 ArtCl7_Art57__151
 ArtCl7_Art57__153
@@ -9059,7 +8870,6 @@ ArtCl7_Art100__164
 ArtCl7_Art100__165
 ArtCl7_Art100__168
 ArtCl7_Art100__169
-ArtCl7_Art100__170
 ArtCl7_Art100__171
 ArtCl7_Art100__172
 ArtCl7_Art100__173
@@ -9165,7 +8975,6 @@ ArtCl7_Art45__152
 ArtCl7_Art45__153
 ArtCl7_Art45__154
 ArtCl7_Art45__155
-ArtCl7_Art45__156
 ArtCl7_Art45__157
 ArtCl7_Art45__158
 ArtCl7_Art45__161
@@ -9208,7 +9017,6 @@ ArtCl7_Art45__6
 ArtCl7_Art45__63
 ArtCl7_Art45__64
 ArtCl7_Art45__65
-ArtCl7_Art45__66
 ArtCl7_Art45__67
 ArtCl7_Art45__68
 ArtCl7_Art45__70
@@ -9433,7 +9241,6 @@ ArtCl7_Art46__4
 ArtCl7_Art46__40
 ArtCl7_Art46__41
 ArtCl7_Art46__42
-ArtCl7_Art46__47
 ArtCl7_Art46__48
 ArtCl7_Art46__49
 ArtCl7_Art46__5
@@ -9461,12 +9268,10 @@ ArtCl7_Art46__97
 ArtCl7_Art96__0
 ArtCl7_Art96__102
 ArtCl7_Art96__104
-ArtCl7_Art96__105
 ArtCl7_Art96__106
 ArtCl7_Art96__107
 ArtCl7_Art96__109
 ArtCl7_Art96__110
-ArtCl7_Art96__118
 ArtCl7_Art96__122
 ArtCl7_Art96__123
 ArtCl7_Art96__145
@@ -9479,7 +9284,6 @@ ArtCl7_Art96__18
 ArtCl7_Art96__19
 ArtCl7_Art96__20
 ArtCl7_Art96__21
-ArtCl7_Art96__22
 ArtCl7_Art96__24
 ArtCl7_Art96__3
 ArtCl7_Art96__30
@@ -9504,7 +9308,6 @@ ArtCl7_Art96__84
 ArtCl7_Art96__85
 ArtCl7_Art96__88
 ArtCl7_Art96__89
-ArtCl7_Art96__90
 ArtCl7_Art96__91
 ArtCl6_Art6__1
 ArtCl6_Art6__122
@@ -9561,7 +9364,6 @@ ArtCl6_Art6__235
 ArtCl6_Art6__236
 ArtCl6_Art6__237
 ArtCl6_Art6__239
-ArtCl6_Art6__240
 ArtCl6_Art6__241
 ArtCl6_Art6__242
 ArtCl6_Art6__244
@@ -9653,7 +9455,6 @@ ArtCl7_Art1998__125
 ArtCl7_Art1998__126
 ArtCl7_Art1998__127
 ArtCl7_Art1998__13
-ArtCl7_Art1998__135
 ArtCl7_Art1998__137
 ArtCl7_Art1998__139
 ArtCl7_Art1998__145
@@ -9680,7 +9481,6 @@ ArtCl7_Art1998__28
 ArtCl7_Art1998__30
 ArtCl7_Art1998__31
 ArtCl7_Art1998__33
-ArtCl7_Art1998__35
 ArtCl7_Art1998__36
 ArtCl7_Art1998__44
 ArtCl7_Art1998__46
@@ -9690,7 +9490,6 @@ ArtCl7_Art1998__51
 ArtCl7_Art1998__52
 ArtCl7_Art1998__54
 ArtCl7_Art1998__55
-ArtCl7_Art1998__65
 ArtCl7_Art1998__66
 ArtCl7_Art1998__77
 ArtCl7_Art1998__78
@@ -9703,7 +9502,6 @@ ArtCl4_Art40__0
 ArtCl4_Art40__104
 ArtCl4_Art40__106
 ArtCl4_Art40__111
-ArtCl4_Art40__137
 ArtCl4_Art40__155
 ArtCl4_Art40__156
 ArtCl4_Art40__164
@@ -9724,7 +9522,6 @@ ArtCl4_Art40__229
 ArtCl4_Art40__231
 ArtCl4_Art40__237
 ArtCl4_Art40__252
-ArtCl4_Art40__253
 ArtCl4_Art40__258
 ArtCl4_Art40__267
 ArtCl4_Art40__27
@@ -9739,7 +9536,6 @@ ArtCl4_Art40__39
 ArtCl4_Art40__40
 ArtCl4_Art40__41
 ArtCl4_Art40__42
-ArtCl4_Art40__47
 ArtCl4_Art40__49
 ArtCl4_Art40__5
 ArtCl4_Art40__51
@@ -9790,7 +9586,6 @@ ArtCl7_Art40__10
 ArtCl7_Art40__101
 ArtCl7_Art40__103
 ArtCl7_Art40__104
-ArtCl7_Art40__105
 ArtCl7_Art40__106
 ArtCl7_Art40__108
 ArtCl7_Art40__11
@@ -9869,7 +9664,6 @@ ArtCl7_Art71__111
 ArtCl7_Art71__112
 ArtCl7_Art71__113
 ArtCl7_Art71__115
-ArtCl7_Art71__117
 ArtCl7_Art71__121
 ArtCl7_Art71__124
 ArtCl7_Art71__125
@@ -9978,8 +9772,6 @@ ArtCl7_Art71__312
 ArtCl7_Art71__318
 ArtCl7_Art71__32
 ArtCl7_Art71__321
-ArtCl7_Art71__326
-ArtCl7_Art71__327
 ArtCl7_Art71__328
 ArtCl7_Art71__330
 ArtCl7_Art71__333
@@ -10099,7 +9891,6 @@ ArtCl7_Art64__238
 ArtCl7_Art64__239
 ArtCl7_Art64__24
 ArtCl7_Art64__240
-ArtCl7_Art64__241
 ArtCl7_Art64__242
 ArtCl7_Art64__243
 ArtCl7_Art64__247
@@ -10113,7 +9904,6 @@ ArtCl7_Art64__256
 ArtCl7_Art64__258
 ArtCl7_Art64__261
 ArtCl7_Art64__262
-ArtCl7_Art64__263
 ArtCl7_Art64__265
 ArtCl7_Art64__266
 ArtCl7_Art64__267
@@ -10128,7 +9918,6 @@ ArtCl7_Art64__276
 ArtCl7_Art64__283
 ArtCl7_Art64__29
 ArtCl7_Art64__290
-ArtCl7_Art64__292
 ArtCl7_Art64__293
 ArtCl7_Art64__296
 ArtCl7_Art64__3
@@ -10234,7 +10023,6 @@ ArtCl3_Art283__61
 ArtCl3_Art283__62
 ArtCl3_Art283__63
 ArtCl3_Art283__64
-ArtCl3_Art283__66
 ArtCl3_Art283__68
 ArtCl3_Art283__69
 ArtCl3_Art283__70
@@ -10445,7 +10233,6 @@ ArtCl7_Art8__17
 ArtCl7_Art8__18
 ArtCl7_Art8__20
 ArtCl7_Art8__21
-ArtCl7_Art8__22
 ArtCl7_Art8__23
 ArtCl7_Art8__3
 ArtCl7_Art8__36
@@ -10720,7 +10507,6 @@ ArtCl7_Art122__119
 ArtCl7_Art122__12
 ArtCl7_Art122__121
 ArtCl7_Art122__123
-ArtCl7_Art122__124
 ArtCl7_Art122__125
 ArtCl7_Art122__126
 ArtCl7_Art122__127
@@ -10738,13 +10524,11 @@ ArtCl7_Art122__15
 ArtCl7_Art122__150
 ArtCl7_Art122__152
 ArtCl7_Art122__153
-ArtCl7_Art122__156
 ArtCl7_Art122__158
 ArtCl7_Art122__16
 ArtCl7_Art122__160
 ArtCl7_Art122__162
 ArtCl7_Art122__163
-ArtCl7_Art122__165
 ArtCl7_Art122__169
 ArtCl7_Art122__171
 ArtCl7_Art122__172
@@ -10769,7 +10553,6 @@ ArtCl7_Art122__26
 ArtCl7_Art122__28
 ArtCl7_Art122__3
 ArtCl7_Art122__32
-ArtCl7_Art122__33
 ArtCl7_Art122__34
 ArtCl7_Art122__39
 ArtCl7_Art122__4
@@ -10789,7 +10572,6 @@ ArtCl7_Art122__57
 ArtCl7_Art122__58
 ArtCl7_Art122__59
 ArtCl7_Art122__6
-ArtCl7_Art122__60
 ArtCl7_Art122__61
 ArtCl7_Art122__62
 ArtCl7_Art122__65
@@ -10859,7 +10641,6 @@ ArtCl6_Art17__215
 ArtCl6_Art17__217
 ArtCl6_Art17__224
 ArtCl6_Art17__238
-ArtCl6_Art17__24
 ArtCl6_Art17__241
 ArtCl6_Art17__242
 ArtCl6_Art17__243
@@ -10892,7 +10673,6 @@ ArtCl1_Art13__19
 ArtCl1_Art13__20
 ArtCl1_Art13__21
 ArtCl1_Art13__28
-ArtCl1_Art13__30
 ArtCl1_Art13__31
 ArtCl1_Art13__34
 ArtCl1_Art13__35
@@ -11033,7 +10813,6 @@ ArtCl7_Art49__172
 ArtCl7_Art49__173
 ArtCl7_Art49__174
 ArtCl7_Art49__176
-ArtCl7_Art49__177
 ArtCl7_Art49__178
 ArtCl7_Art49__179
 ArtCl7_Art49__18
@@ -11087,7 +10866,6 @@ ArtCl7_Art49__66
 ArtCl7_Art49__68
 ArtCl7_Art49__69
 ArtCl7_Art49__7
-ArtCl7_Art49__70
 ArtCl7_Art49__71
 ArtCl7_Art49__74
 ArtCl7_Art49__75
@@ -11213,7 +10991,6 @@ ArtCl7_Art75__87
 ArtCl7_Art75__9
 ArtCl5_Art2__1
 ArtCl5_Art2__102
-ArtCl5_Art2__103
 ArtCl5_Art2__104
 ArtCl5_Art2__108
 ArtCl5_Art2__111
@@ -11228,7 +11005,6 @@ ArtCl5_Art2__37
 ArtCl5_Art2__40
 ArtCl5_Art2__47
 ArtCl5_Art2__49
-ArtCl5_Art2__50
 ArtCl5_Art2__53
 ArtCl5_Art2__67
 ArtCl5_Art2__7
@@ -11266,7 +11042,6 @@ ArtCl1_Art21__6
 ArtCl1_Art21__62
 ArtCl1_Art21__65
 ArtCl1_Art21__68
-ArtCl1_Art21__69
 ArtCl1_Art21__70
 ArtCl1_Art21__72
 ArtCl1_Art21__76
@@ -11292,7 +11067,6 @@ ArtCl7_Art2004__118
 ArtCl7_Art2004__120
 ArtCl7_Art2004__121
 ArtCl7_Art2004__122
-ArtCl7_Art2004__123
 ArtCl7_Art2004__127
 ArtCl7_Art2004__128
 ArtCl7_Art2004__129
@@ -11315,7 +11089,6 @@ ArtCl7_Art2004__159
 ArtCl7_Art2004__16
 ArtCl7_Art2004__161
 ArtCl7_Art2004__162
-ArtCl7_Art2004__163
 ArtCl7_Art2004__164
 ArtCl7_Art2004__165
 ArtCl7_Art2004__166
@@ -11378,7 +11151,6 @@ ArtCl7_Art2004__63
 ArtCl7_Art2004__65
 ArtCl7_Art2004__66
 ArtCl7_Art2004__67
-ArtCl7_Art2004__68
 ArtCl7_Art2004__71
 ArtCl7_Art2004__72
 ArtCl7_Art2004__73
@@ -11416,7 +11188,6 @@ ArtCl7_Art127__198
 ArtCl7_Art127__72
 ArtCl7_Art127__73
 ArtCl7_Art127__85
-ArtCl7_Art63__0
 ArtCl7_Art63__10
 ArtCl7_Art63__100
 ArtCl7_Art63__106
@@ -11434,9 +11205,7 @@ ArtCl7_Art63__122
 ArtCl7_Art63__123
 ArtCl7_Art63__124
 ArtCl7_Art63__138
-ArtCl7_Art63__143
 ArtCl7_Art63__144
-ArtCl7_Art63__146
 ArtCl7_Art63__22
 ArtCl7_Art63__23
 ArtCl7_Art63__3
@@ -11463,7 +11232,6 @@ ArtCl5_Art6__124
 ArtCl5_Art6__126
 ArtCl5_Art6__129
 ArtCl5_Art6__13
-ArtCl5_Art6__130
 ArtCl5_Art6__132
 ArtCl5_Art6__133
 ArtCl5_Art6__134
@@ -11480,7 +11248,6 @@ ArtCl5_Art6__188
 ArtCl5_Art6__189
 ArtCl5_Art6__191
 ArtCl5_Art6__192
-ArtCl5_Art6__194
 ArtCl5_Art6__195
 ArtCl5_Art6__196
 ArtCl5_Art6__198
@@ -11507,7 +11274,6 @@ ArtCl5_Art6__225
 ArtCl5_Art6__226
 ArtCl5_Art6__235
 ArtCl5_Art6__236
-ArtCl5_Art6__238
 ArtCl5_Art6__24
 ArtCl5_Art6__247
 ArtCl5_Art6__248
@@ -11735,7 +11501,6 @@ ArtCl7_Art54__13
 ArtCl7_Art54__131
 ArtCl7_Art54__132
 ArtCl7_Art54__133
-ArtCl7_Art54__134
 ArtCl7_Art54__135
 ArtCl7_Art54__136
 ArtCl7_Art54__144
@@ -11864,7 +11629,6 @@ ArtCl1_Art32__31
 ArtCl1_Art32__32
 ArtCl1_Art32__33
 ArtCl1_Art32__34
-ArtCl1_Art32__36
 ArtCl1_Art32__37
 ArtCl1_Art32__4
 ArtCl1_Art32__5
@@ -11890,7 +11654,6 @@ ArtCl6_Art1987__23
 ArtCl6_Art1987__24
 ArtCl6_Art1987__25
 ArtCl6_Art1987__26
-ArtCl6_Art1987__27
 ArtCl6_Art1987__28
 ArtCl6_Art1987__3
 ArtCl6_Art1987__31
@@ -11929,7 +11692,6 @@ ArtCl6_Art1987__87
 ArtCl6_Art1987__88
 ArtCl6_Art1987__90
 ArtCl6_Art1987__95
-ArtCl6_Art1987__96
 ArtCl6_Art1987__97
 ArtCl7_Art1982__1
 ArtCl7_Art1982__20
@@ -12034,7 +11796,6 @@ ArtCl3_Art16__60
 ArtCl3_Art16__7
 ArtCl3_Art16__8
 ArtCl3_Art16__9
-ArtCl1_Art34__0
 ArtCl1_Art34__10
 ArtCl1_Art34__11
 ArtCl1_Art34__12
@@ -12056,7 +11817,6 @@ ArtCl1_Art34__35
 ArtCl1_Art34__36
 ArtCl1_Art34__37
 ArtCl1_Art34__39
-ArtCl1_Art34__41
 ArtCl1_Art34__42
 ArtCl1_Art34__44
 ArtCl1_Art34__45
@@ -12073,7 +11833,6 @@ ArtCl1_Art34__54
 ArtCl1_Art34__55
 ArtCl1_Art34__56
 ArtCl1_Art34__59
-ArtCl1_Art34__6
 ArtCl1_Art34__60
 ArtCl1_Art34__62
 ArtCl1_Art34__63
@@ -12150,17 +11909,14 @@ ArtCl7_Art10__215
 ArtCl7_Art10__216
 ArtCl7_Art10__217
 ArtCl7_Art10__223
-ArtCl7_Art10__225
 ArtCl7_Art10__229
 ArtCl7_Art10__232
 ArtCl7_Art10__236
 ArtCl7_Art10__238
 ArtCl7_Art10__239
-ArtCl7_Art10__241
 ArtCl7_Art10__243
 ArtCl7_Art10__245
 ArtCl7_Art10__248
-ArtCl7_Art10__249
 ArtCl7_Art10__251
 ArtCl7_Art10__252
 ArtCl7_Art10__258
@@ -12219,7 +11975,6 @@ ArtCl7_Art10__424
 ArtCl7_Art10__426
 ArtCl7_Art10__427
 ArtCl7_Art10__429
-ArtCl7_Art10__430
 ArtCl7_Art10__432
 ArtCl7_Art10__433
 ArtCl7_Art10__63
@@ -12245,7 +12000,6 @@ ArtCl7_Art24__10
 ArtCl7_Art24__101
 ArtCl7_Art24__108
 ArtCl7_Art24__114
-ArtCl7_Art24__115
 ArtCl7_Art24__116
 ArtCl7_Art24__117
 ArtCl7_Art24__118
@@ -12633,7 +12387,6 @@ ArtCl7_Art28__86
 ArtCl7_Art28__87
 ArtCl7_Art28__88
 ArtCl7_Art28__89
-ArtCl7_Art28__9
 ArtCl7_Art28__90
 ArtCl7_Art28__91
 ArtCl7_Art28__92
@@ -12646,7 +12399,6 @@ ArtCl7_Art73__102
 ArtCl7_Art73__104
 ArtCl7_Art73__105
 ArtCl7_Art73__108
-ArtCl7_Art73__109
 ArtCl7_Art73__111
 ArtCl7_Art73__118
 ArtCl7_Art73__119
@@ -12669,7 +12421,6 @@ ArtCl7_Art73__47
 ArtCl7_Art73__51
 ArtCl7_Art73__52
 ArtCl7_Art73__56
-ArtCl7_Art73__59
 ArtCl7_Art73__66
 ArtCl7_Art73__70
 ArtCl7_Art73__9
@@ -12698,7 +12449,6 @@ ArtCl7_Art2011__14
 ArtCl7_Art2011__140
 ArtCl7_Art2011__142
 ArtCl7_Art2011__143
-ArtCl7_Art2011__144
 ArtCl7_Art2011__146
 ArtCl7_Art2011__147
 ArtCl7_Art2011__15
@@ -12734,7 +12484,6 @@ ArtCl7_Art2011__2
 ArtCl7_Art2011__20
 ArtCl7_Art2011__200
 ArtCl7_Art2011__201
-ArtCl7_Art2011__202
 ArtCl7_Art2011__204
 ArtCl7_Art2011__205
 ArtCl7_Art2011__206
@@ -12873,7 +12622,6 @@ ArtCl7_Art7__104
 ArtCl7_Art7__105
 ArtCl7_Art7__106
 ArtCl7_Art7__107
-ArtCl7_Art7__109
 ArtCl7_Art7__11
 ArtCl7_Art7__110
 ArtCl7_Art7__111
@@ -13001,14 +12749,10 @@ ArtCl7_Art25__80
 ArtCl7_Art11__15
 ArtCl7_Art11__16
 ArtCl7_Art11__22
-ArtCl7_Art11__250
 ArtCl7_Art11__263
-ArtCl7_Art11__305
 ArtCl7_Art11__32
-ArtCl7_Art11__55
 ArtCl7_Art11__6
 ArtCl5_Art2006__0
-ArtCl5_Art2006__10
 ArtCl5_Art2006__109
 ArtCl5_Art2006__11
 ArtCl5_Art2006__118
@@ -13051,7 +12795,6 @@ ArtCl5_Art2006__45
 ArtCl5_Art2006__46
 ArtCl5_Art2006__47
 ArtCl5_Art2006__48
-ArtCl5_Art2006__50
 ArtCl5_Art2006__51
 ArtCl5_Art2006__54
 ArtCl5_Art2006__55
@@ -13093,7 +12836,6 @@ ArtCl3_Art221__238
 ArtCl3_Art221__239
 ArtCl3_Art221__246
 ArtCl3_Art221__255
-ArtCl3_Art221__256
 ArtCl3_Art221__257
 ArtCl3_Art221__258
 ArtCl3_Art221__26
@@ -13131,7 +12873,6 @@ ArtCl5_Art2004__26
 ArtCl5_Art2004__27
 ArtCl5_Art2004__28
 ArtCl5_Art2004__3
-ArtCl5_Art2004__31
 ArtCl5_Art2004__32
 ArtCl5_Art2004__34
 ArtCl5_Art2004__36
@@ -13262,7 +13003,6 @@ ArtCl2_Art2__426
 ArtCl2_Art2__427
 ArtCl2_Art2__429
 ArtCl2_Art2__430
-ArtCl2_Art2__431
 ArtCl2_Art2__432
 ArtCl2_Art2__439
 ArtCl2_Art2__440
@@ -13298,7 +13038,6 @@ ArtCl2_Art2__492
 ArtCl2_Art2__493
 ArtCl2_Art2__494
 ArtCl2_Art2__495
-ArtCl2_Art2__496
 ArtCl2_Art2__498
 ArtCl2_Art2__499
 ArtCl2_Art2__500
@@ -13348,7 +13087,6 @@ ArtCl2_Art2__615
 ArtCl2_Art2__616
 ArtCl2_Art2__617
 ArtCl2_Art2__619
-ArtCl2_Art2__620
 ArtCl2_Art2__621
 ArtCl2_Art2__622
 ArtCl2_Art2__623
@@ -13373,8 +13111,6 @@ ArtCl2_Art2__663
 ArtCl2_Art2__668
 ArtCl2_Art2__669
 ArtCl2_Art2__672
-ArtCl2_Art2__673
-ArtCl2_Art2__674
 ArtCl2_Art2__675
 ArtCl2_Art2__676
 ArtCl2_Art2__677
@@ -13383,9 +13119,7 @@ ArtCl2_Art2__679
 ArtCl2_Art2__684
 ArtCl2_Art2__685
 ArtCl2_Art2__688
-ArtCl2_Art2__689
 ArtCl2_Art2__69
-ArtCl2_Art2__690
 ArtCl2_Art2__691
 ArtCl2_Art2__692
 ArtCl2_Art2__693
@@ -13425,7 +13159,6 @@ ArtCl2_Art2__95
 ArtCl2_Art2__963
 ArtCl2_Art2__966
 ArtCl2_Art2__98
-ArtCl2_Art2__99
 ArtCl3_Art225__106
 ArtCl3_Art225__116
 ArtCl3_Art225__117
@@ -13436,7 +13169,6 @@ ArtCl3_Art225__126
 ArtCl3_Art225__127
 ArtCl3_Art225__128
 ArtCl3_Art225__129
-ArtCl3_Art225__131
 ArtCl3_Art225__132
 ArtCl3_Art225__133
 ArtCl3_Art225__134
@@ -13458,7 +13190,6 @@ ArtCl1_Art43__24
 ArtCl1_Art43__26
 ArtCl1_Art43__27
 ArtCl1_Art43__28
-ArtCl1_Art43__29
 ArtCl1_Art43__31
 ArtCl1_Art43__32
 ArtCl1_Art43__33
@@ -13488,7 +13219,6 @@ ArtCl1_Art1__14
 ArtCl1_Art1__15
 ArtCl1_Art1__16
 ArtCl1_Art1__17
-ArtCl1_Art1__18
 ArtCl1_Art1__2
 ArtCl1_Art1__21
 ArtCl1_Art1__22
@@ -13501,7 +13231,6 @@ ArtCl1_Art1__28
 ArtCl1_Art1__29
 ArtCl1_Art1__3
 ArtCl1_Art1__30
-ArtCl1_Art1__31
 ArtCl1_Art1__32
 ArtCl1_Art1__33
 ArtCl1_Art1__35
@@ -13545,7 +13274,6 @@ ArtCl1_Art1__77
 ArtCl1_Art1__79
 ArtCl1_Art1__8
 ArtCl1_Art1__9
-ArtCl1_Art1__91
 ArtCl1_Art1__92
 ArtCl1_Art1__93
 ArtCl1_Art1__94
@@ -13634,9 +13362,7 @@ ArtCl3_Art227__157
 ArtCl3_Art227__16
 ArtCl3_Art227__160
 ArtCl3_Art227__163
-ArtCl3_Art227__164
 ArtCl3_Art227__165
-ArtCl3_Art227__166
 ArtCl3_Art227__168
 ArtCl3_Art227__169
 ArtCl3_Art227__171
@@ -13682,11 +13408,9 @@ ArtCl3_Art227__24
 ArtCl3_Art227__25
 ArtCl3_Art227__26
 ArtCl3_Art227__27
-ArtCl3_Art227__30
 ArtCl3_Art227__31
 ArtCl3_Art227__32
 ArtCl3_Art227__33
-ArtCl3_Art227__34
 ArtCl3_Art227__35
 ArtCl3_Art227__39
 ArtCl3_Art227__4
@@ -13712,7 +13436,6 @@ ArtCl3_Art227__6
 ArtCl3_Art227__62
 ArtCl3_Art227__64
 ArtCl3_Art227__65
-ArtCl3_Art227__66
 ArtCl3_Art227__7
 ArtCl3_Art227__70
 ArtCl3_Art227__71
@@ -13726,7 +13449,6 @@ ArtCl3_Art227__8
 ArtCl3_Art227__80
 ArtCl3_Art227__81
 ArtCl3_Art227__82
-ArtCl3_Art227__83
 ArtCl3_Art227__84
 ArtCl3_Art227__85
 ArtCl3_Art227__86
@@ -13759,7 +13481,6 @@ ArtCl6_Art13__117
 ArtCl6_Art13__118
 ArtCl6_Art13__119
 ArtCl6_Art13__121
-ArtCl6_Art13__122
 ArtCl6_Art13__124
 ArtCl6_Art13__185
 ArtCl6_Art13__193
@@ -13989,7 +13710,6 @@ ArtCl6_Art15__66
 ArtCl6_Art15__7
 ArtCl6_Art15__74
 ArtCl6_Art15__78
-ArtCl6_Art15__8
 ArtCl6_Art15__84
 ArtCl6_Art15__86
 ArtCl6_Art15__88
@@ -14022,7 +13742,6 @@ ArtCl7_Art14__206
 ArtCl7_Art14__207
 ArtCl7_Art14__209
 ArtCl7_Art14__217
-ArtCl7_Art14__218
 ArtCl7_Art14__221
 ArtCl7_Art14__223
 ArtCl7_Art14__229
@@ -14091,7 +13810,6 @@ ArtCl7_Art14__73
 ArtCl7_Art14__76
 ArtCl7_Art14__82
 ArtCl7_Art14__83
-ArtCl7_Art14__88
 ArtCl6_Art1980__195
 ArtCl6_Art1980__196
 ArtCl6_Art1980__199
@@ -14164,7 +13882,6 @@ ArtCl7_Art80__182
 ArtCl7_Art80__183
 ArtCl7_Art80__185
 ArtCl7_Art80__186
-ArtCl7_Art80__189
 ArtCl7_Art80__19
 ArtCl7_Art80__190
 ArtCl7_Art80__191
@@ -14216,7 +13933,6 @@ ArtCl5_Art1975__54
 ArtCl5_Art1975__55
 ArtCl5_Art1975__57
 ArtCl5_Art1975__59
-ArtCl5_Art1975__65
 ArtCl5_Art1975__67
 ArtCl5_Art1975__7
 ArtCl7_Art113__100
@@ -14228,12 +13944,10 @@ ArtCl7_Art113__107
 ArtCl7_Art113__108
 ArtCl7_Art113__111
 ArtCl7_Art113__13
-ArtCl7_Art113__16
 ArtCl7_Art113__179
 ArtCl7_Art113__3
 ArtCl7_Art113__80
 ArtCl7_Art113__81
-ArtCl7_Art113__87
 ArtCl7_Art113__89
 ArtCl7_Art113__93
 ArtCl7_Art113__94
@@ -14241,7 +13955,6 @@ ArtCl7_Art113__96
 ArtCl7_Art113__97
 ArtCl7_Art113__98
 ArtCl6_Art4__10
-ArtCl6_Art4__101
 ArtCl6_Art4__102
 ArtCl6_Art4__103
 ArtCl6_Art4__106
@@ -14263,7 +13976,6 @@ ArtCl6_Art4__128
 ArtCl6_Art4__13
 ArtCl6_Art4__130
 ArtCl6_Art4__131
-ArtCl6_Art4__132
 ArtCl6_Art4__133
 ArtCl6_Art4__135
 ArtCl6_Art4__137
@@ -14284,7 +13996,6 @@ ArtCl6_Art4__164
 ArtCl6_Art4__165
 ArtCl6_Art4__17
 ArtCl6_Art4__2
-ArtCl6_Art4__20
 ArtCl6_Art4__22
 ArtCl6_Art4__25
 ArtCl6_Art4__26
@@ -14370,11 +14081,8 @@ ArtCl7_Art44__169
 ArtCl7_Art44__170
 ArtCl7_Art44__176
 ArtCl7_Art44__178
-ArtCl7_Art44__18
-ArtCl7_Art44__182
 ArtCl7_Art44__184
 ArtCl7_Art44__186
-ArtCl7_Art44__190
 ArtCl7_Art44__20
 ArtCl7_Art44__200
 ArtCl7_Art44__201
@@ -14423,7 +14131,6 @@ ArtCl7_Art44__90
 ArtCl7_Art44__94
 ArtCl7_Art44__95
 ArtCl7_Art44__96
-ArtCl7_Art44__97
 ArtCl7_Art44__98
 ArtCl7_Art44__99
 ArtCl7_Art37__0
@@ -14444,7 +14151,6 @@ ArtCl7_Art37__12
 ArtCl7_Art37__124
 ArtCl7_Art37__126
 ArtCl7_Art37__127
-ArtCl7_Art37__129
 ArtCl7_Art37__13
 ArtCl7_Art37__134
 ArtCl7_Art37__135
@@ -14488,7 +14194,6 @@ ArtCl7_Art37__209
 ArtCl7_Art37__21
 ArtCl7_Art37__211
 ArtCl7_Art37__212
-ArtCl7_Art37__213
 ArtCl7_Art37__214
 ArtCl7_Art37__217
 ArtCl7_Art37__218
@@ -14499,7 +14204,6 @@ ArtCl7_Art37__223
 ArtCl7_Art37__226
 ArtCl7_Art37__229
 ArtCl7_Art37__234
-ArtCl7_Art37__236
 ArtCl7_Art37__240
 ArtCl7_Art37__241
 ArtCl7_Art37__242
@@ -14599,7 +14303,6 @@ ArtCl7_Art79__138
 ArtCl7_Art79__140
 ArtCl7_Art79__146
 ArtCl7_Art79__148
-ArtCl7_Art79__158
 ArtCl7_Art79__164
 ArtCl7_Art79__165
 ArtCl7_Art79__167
@@ -14793,7 +14496,6 @@ ArtCl3_Art178__148
 ArtCl3_Art178__149
 ArtCl3_Art178__150
 ArtCl3_Art178__151
-ArtCl3_Art178__153
 ArtCl3_Art178__155
 ArtCl3_Art178__156
 ArtCl3_Art178__158
@@ -14808,7 +14510,6 @@ ArtCl3_Art178__172
 ArtCl3_Art178__174
 ArtCl3_Art178__181
 ArtCl3_Art178__182
-ArtCl3_Art178__183
 ArtCl3_Art178__184
 ArtCl3_Art178__185
 ArtCl3_Art178__186
@@ -14853,14 +14554,11 @@ ArtCl7_Art84__102
 ArtCl7_Art84__103
 ArtCl7_Art84__108
 ArtCl7_Art84__109
-ArtCl7_Art84__11
 ArtCl7_Art84__110
 ArtCl7_Art84__114
 ArtCl7_Art84__115
-ArtCl7_Art84__117
 ArtCl7_Art84__12
 ArtCl7_Art84__121
-ArtCl7_Art84__125
 ArtCl7_Art84__128
 ArtCl7_Art84__129
 ArtCl7_Art84__134
@@ -14872,7 +14570,6 @@ ArtCl7_Art84__164
 ArtCl7_Art84__167
 ArtCl7_Art84__168
 ArtCl7_Art84__17
-ArtCl7_Art84__173
 ArtCl7_Art84__174
 ArtCl7_Art84__19
 ArtCl7_Art84__191
@@ -14888,8 +14585,6 @@ ArtCl7_Art84__23
 ArtCl7_Art84__231
 ArtCl7_Art84__232
 ArtCl7_Art84__238
-ArtCl7_Art84__24
-ArtCl7_Art84__245
 ArtCl7_Art84__247
 ArtCl7_Art84__25
 ArtCl7_Art84__253
@@ -14958,7 +14653,6 @@ ArtCl7_Art16__132
 ArtCl7_Art16__137
 ArtCl7_Art16__139
 ArtCl7_Art16__14
-ArtCl7_Art16__141
 ArtCl7_Art16__147
 ArtCl7_Art16__148
 ArtCl7_Art16__152
@@ -15003,7 +14697,6 @@ ArtCl7_Art16__34
 ArtCl7_Art16__36
 ArtCl7_Art16__39
 ArtCl7_Art16__4
-ArtCl7_Art16__40
 ArtCl7_Art16__42
 ArtCl7_Art16__43
 ArtCl7_Art16__49
@@ -15060,7 +14753,6 @@ ArtCl7_Art1996__115
 ArtCl7_Art1996__116
 ArtCl7_Art1996__119
 ArtCl7_Art1996__120
-ArtCl7_Art1996__127
 ArtCl7_Art1996__133
 ArtCl7_Art1996__14
 ArtCl7_Art1996__143
@@ -15071,7 +14763,6 @@ ArtCl7_Art1996__154
 ArtCl7_Art1996__158
 ArtCl7_Art1996__164
 ArtCl7_Art1996__169
-ArtCl7_Art1996__17
 ArtCl7_Art1996__177
 ArtCl7_Art1996__180
 ArtCl7_Art1996__181
@@ -15083,7 +14774,6 @@ ArtCl7_Art1996__202
 ArtCl7_Art1996__203
 ArtCl7_Art1996__204
 ArtCl7_Art1996__205
-ArtCl7_Art1996__212
 ArtCl7_Art1996__25
 ArtCl7_Art1996__26
 ArtCl7_Art1996__31
@@ -15108,7 +14798,6 @@ ArtCl7_Art1996__70
 ArtCl7_Art1996__72
 ArtCl7_Art1996__73
 ArtCl7_Art1996__74
-ArtCl7_Art1996__76
 ArtCl7_Art1996__77
 ArtCl7_Art1996__80
 ArtCl7_Art1996__82
@@ -15145,7 +14834,6 @@ ArtCl1_Art3__145
 ArtCl1_Art3__146
 ArtCl1_Art3__151
 ArtCl1_Art3__153
-ArtCl1_Art3__154
 ArtCl1_Art3__155
 ArtCl1_Art3__157
 ArtCl1_Art3__158
@@ -15191,7 +14879,6 @@ ArtCl1_Art3__248
 ArtCl1_Art3__251
 ArtCl1_Art3__256
 ArtCl1_Art3__26
-ArtCl1_Art3__260
 ArtCl1_Art3__261
 ArtCl1_Art3__265
 ArtCl1_Art3__266
@@ -15286,7 +14973,6 @@ ArtCl6_Art2002__83
 ArtCl6_Art2002__86
 ArtCl6_Art2002__87
 ArtCl6_Art2002__93
-ArtCl6_Art2002__95
 ArtCl6_Art2002__96
 ArtCl6_Art2002__97
 ArtCl7_Art90__0
@@ -15318,7 +15004,6 @@ ArtCl3_Art293__33
 ArtCl3_Art293__38
 ArtCl3_Art293__39
 ArtCl3_Art293__4
-ArtCl3_Art293__43
 ArtCl3_Art293__45
 ArtCl3_Art293__46
 ArtCl3_Art293__48
@@ -15328,10 +15013,8 @@ ArtCl3_Art293__56
 ArtCl3_Art293__59
 ArtCl3_Art293__6
 ArtCl3_Art293__63
-ArtCl3_Art293__64
 ArtCl3_Art293__65
 ArtCl3_Art293__66
-ArtCl3_Art293__67
 ArtCl3_Art293__7
 ArtCl3_Art293__8
 ArtCl3_Art293__9
@@ -15348,7 +15031,6 @@ ArtCl7_Art3__125
 ArtCl7_Art3__127
 ArtCl7_Art3__130
 ArtCl7_Art3__131
-ArtCl7_Art3__132
 ArtCl7_Art3__133
 ArtCl7_Art3__14
 ArtCl7_Art3__146
@@ -15416,7 +15098,6 @@ ArtCl7_Art2001__114
 ArtCl7_Art2001__115
 ArtCl7_Art2001__116
 ArtCl7_Art2001__117
-ArtCl7_Art2001__118
 ArtCl7_Art2001__119
 ArtCl7_Art2001__12
 ArtCl7_Art2001__14
@@ -15540,7 +15221,6 @@ ArtCl7_Art102__295
 ArtCl7_Art102__296
 ArtCl7_Art102__299
 ArtCl7_Art102__30
-ArtCl7_Art102__301
 ArtCl7_Art102__303
 ArtCl7_Art102__305
 ArtCl7_Art102__306
@@ -15564,7 +15244,6 @@ ArtCl7_Art102__93
 ArtCl7_Art102__96
 ArtCl7_Art102__97
 ArtCl4_Art2014__1
-ArtCl4_Art2014__112
 ArtCl4_Art2014__12
 ArtCl4_Art2014__143
 ArtCl4_Art2014__147
@@ -15579,7 +15258,6 @@ ArtCl4_Art2014__223
 ArtCl4_Art2014__225
 ArtCl4_Art2014__231
 ArtCl4_Art2014__234
-ArtCl4_Art2014__259
 ArtCl4_Art2014__27
 ArtCl4_Art2014__283
 ArtCl4_Art2014__284
@@ -15651,7 +15329,6 @@ ArtCl4_Art91__177
 ArtCl4_Art91__178
 ArtCl4_Art91__179
 ArtCl4_Art91__180
-ArtCl4_Art91__182
 ArtCl4_Art91__183
 ArtCl4_Art91__19
 ArtCl4_Art91__190
@@ -15659,7 +15336,6 @@ ArtCl4_Art91__192
 ArtCl4_Art91__194
 ArtCl4_Art91__198
 ArtCl4_Art91__199
-ArtCl4_Art91__2
 ArtCl4_Art91__201
 ArtCl4_Art91__209
 ArtCl4_Art91__210
@@ -15688,7 +15364,6 @@ ArtCl4_Art91__40
 ArtCl4_Art91__41
 ArtCl4_Art91__42
 ArtCl4_Art91__44
-ArtCl4_Art91__46
 ArtCl4_Art91__47
 ArtCl4_Art91__48
 ArtCl4_Art91__49
@@ -15702,7 +15377,6 @@ ArtCl4_Art91__7
 ArtCl4_Art91__70
 ArtCl4_Art91__71
 ArtCl4_Art91__73
-ArtCl4_Art91__75
 ArtCl4_Art91__76
 ArtCl4_Art91__78
 ArtCl4_Art91__80
@@ -15746,7 +15420,6 @@ ArtCl7_Art62__150
 ArtCl7_Art62__154
 ArtCl7_Art62__158
 ArtCl7_Art62__159
-ArtCl7_Art62__161
 ArtCl7_Art62__167
 ArtCl7_Art62__168
 ArtCl7_Art62__24
@@ -15777,7 +15450,6 @@ ArtCl7_Art62__54
 ArtCl7_Art62__55
 ArtCl7_Art62__57
 ArtCl7_Art62__58
-ArtCl7_Art62__59
 ArtCl7_Art62__62
 ArtCl7_Art62__66
 ArtCl7_Art62__67
@@ -15819,7 +15491,6 @@ ArtCl1_Art20__119
 ArtCl1_Art20__12
 ArtCl1_Art20__121
 ArtCl1_Art20__122
-ArtCl1_Art20__123
 ArtCl1_Art20__126
 ArtCl1_Art20__13
 ArtCl1_Art20__130
@@ -15839,12 +15510,10 @@ ArtCl1_Art20__28
 ArtCl1_Art20__3
 ArtCl1_Art20__30
 ArtCl1_Art20__32
-ArtCl1_Art20__33
 ArtCl1_Art20__34
 ArtCl1_Art20__35
 ArtCl1_Art20__39
 ArtCl1_Art20__4
-ArtCl1_Art20__40
 ArtCl1_Art20__41
 ArtCl1_Art20__43
 ArtCl1_Art20__44
@@ -15864,7 +15533,6 @@ ArtCl1_Art20__57
 ArtCl1_Art20__58
 ArtCl1_Art20__59
 ArtCl1_Art20__6
-ArtCl1_Art20__60
 ArtCl1_Art20__61
 ArtCl1_Art20__62
 ArtCl1_Art20__63
@@ -15908,7 +15576,6 @@ ArtCl7_Art50__112
 ArtCl7_Art50__114
 ArtCl7_Art50__115
 ArtCl7_Art50__117
-ArtCl7_Art50__120
 ArtCl7_Art50__123
 ArtCl7_Art50__125
 ArtCl7_Art50__128
@@ -15916,10 +15583,8 @@ ArtCl7_Art50__129
 ArtCl7_Art50__13
 ArtCl7_Art50__130
 ArtCl7_Art50__131
-ArtCl7_Art50__132
 ArtCl7_Art50__133
 ArtCl7_Art50__140
-ArtCl7_Art50__141
 ArtCl7_Art50__145
 ArtCl7_Art50__146
 ArtCl7_Art50__147
@@ -16057,7 +15722,6 @@ ArtCl7_Art50__90
 ArtCl7_Art50__91
 ArtCl7_Art50__92
 ArtCl7_Art50__97
-ArtCl7_Art50__98
 ArtCl7_Art50__99
 ArtCl7_Art133__134
 ArtCl7_Art133__166
@@ -16101,7 +15765,5 @@ ArtCl6_Art1995__85
 ArtCl6_Art1995__86
 ArtCl6_Art1995__87
 ArtCl6_Art1995__89
-ArtCl6_Art1995__91
 ArtCl6_Art1995__94
 ArtCl6_Art1995__97
-ArtCl6_Art1995__99
