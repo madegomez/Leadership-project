@@ -1,7 +1,7 @@
 # Leadership_project
 Data and results for leadership project
 
-El archivo Corpus_Ont_Semilla_Original.zip contiene los 289 documentos originales. Para la tarea de enriquecimiento se tiene 33 texto, los restantes contienen información que ya está en la ontología semilla. La clasificación de textos (entre completamente asociado o no a la ontología semilla) considero que si el texto tenía como mínimo un concepto que no estuviera presente en la ontología, entonces era un documento no completamente asociado a la ontología semilla (o empleado en la tarea de enriquecimiento). Por lo anterior, un documento con categoria 'no completamente asociado a la ontología semilla' puede contener algunos constructos que si están dentro del modelo conceptual y otros que no están presentes.
+El archivo Corpus_Ont_Semilla_Original.zip contiene los 288 documentos originales. Para la tarea de enriquecimiento se tiene 33 texto, los restantes contienen información que ya está en la ontología semilla. La clasificación de textos (entre completamente asociado o no a la ontología semilla) considero que si el texto tenía como mínimo un concepto que no estuviera presente en la ontología, entonces era un documento no completamente asociado a la ontología semilla (o empleado en la tarea de enriquecimiento). Por lo anterior, un documento con categoria 'no completamente asociado a la ontología semilla' puede contener algunos constructos que si están dentro del modelo conceptual y otros que no están presentes.
 
 El archivo Rev_org_txt.zip tiene las etiquetas que hicieron los revisores. Cada txt tiene la estructura concept:::term1----term2----term3 donde 'concept' hace referencia al concepto que el etiquteador identificó y 'termX' sugiere los términos que el revisor relacionó.
 
@@ -17,6 +17,6 @@ El archivo Name_clases_alternativas_completas.txt tiene las alternativas de las 
 
 En Stopwords_compilation.txt están las stopwords que se usaron en este proyecto.
 
-En Corpus_semilla_v9.txt contiene los 256 documentos con categoria 'completamente asociado a la ontología semilla' después de preprocesamiento, además en Corpus_enriquecimiento_v9.txt están los 35 textos que se emplean en enriquecimiento. Todos los documentos están separados por sentencias, en particular, hay 46860 oraciones en la primera categoria y 8365 en la segunda.
+En Corpus_semilla_v9.txt contiene los 255 documentos con categoria 'completamente asociado a la ontología semilla' después de preprocesamiento, además en Corpus_enriquecimiento_v9.txt están los 33 textos que se emplean en enriquecimiento. Todos los documentos están separados por sentencias, en particular, hay 46749 oraciones en la primera categoria y 8365 en la segunda.
 
-En Sentences_relevence_semilla.txt están los nombres de cada documento con categoria 'completamente asociado a la ontología semilla' y los números de las respectivas sentencias relevantes. En Sentences_relevence_enriquecimiento.txt se asocian los textos en categoria 'no completamente asociado a la ontología semilla'. Es así como en la primera categoria hay 15769 sentencias relevantes y 2747 en la segunda.
+En Sentences_relevence_semilla.txt están los nombres de cada documento con categoria 'completamente asociado a la ontología semilla' y los números de las respectivas sentencias relevantes. En Sentences_relevence_enriquecimiento.txt se asocian los textos en categoria 'no completamente asociado a la ontología semilla'. Es así como en la primera categoria hay 9304 sentencias relevantes y 2747 en la segunda.
