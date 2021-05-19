@@ -11,7 +11,7 @@ El indice Kappa para los datos con categoria 'completamete asociado a la ontolog
 
 El archivo Siglas_originales.txt tiene la estructura --> sigla:termino_definitivo.
 
-El archivo Name_clases_originales.txt tiene las clases, subclases y instancias de la ontología del liderazgo. Estas etiquetas están preprocesadas.
+El archivo Name_clases_originales.txt tiene las clases, subclases e instancias de la ontología del liderazgo. Estas etiquetas están preprocesadas.
 
 El archivo Name_clases_alternativas_completas.txt tiene las alternativas de las etiquetas presentadas en el documento anterior. Todas las ternativas están preprocesadas.
 
