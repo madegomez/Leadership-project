@@ -3,7 +3,6 @@ SC:situational control
 TLS:transactional leadership style
 TRX:teacher resident exchange
 TRXs:teacher resident exchange
-RLMX:LMX
 LMXs:leader-member exchange
 LMX:leader-member exchange
 LMX-MDM:leader-member exchange multidimensional measure
@@ -13,11 +12,6 @@ ELQ:empowering leadership model
 LBDQ:ohio state leadership model Behavior Description Questionnaire
 OCBs:organizational citizenship behaviors
 OCB:organizational citizenship behaviors
-US:USA
-U.S.:USA
-U.S.A.:USA
-United States:USA
-United States of America:USA
 EBS:electronic brainstorming
 LPL:least preferred leader
 LPC:least preferred co-worker
@@ -69,9 +63,6 @@ IM:inspirational motivation
 CLT:Complexity leadership theory
 CLTs:Complexity leadership theory
 CL:Complexity leadership theory
-Basss Transformational Leadership Transformational:Transformational Leadership
-Transformational Leadership Transformational:Transformational Leadership
-the Conservative Party:Conservative National Party
 VDL:Vertical Dyadic Linkage Theory
 AL:Authentic Leadership
 ALs:Authentic Leadership
@@ -208,9 +199,7 @@ QWL:quality of working life
 QOL:quality of life
 LLX:leader-leader exchange
 RBSE:role breadth self-efficacy
-MBTI:MTBI
 MTBI:Myers-Briggs Type Indicator
-SCL:SCLs
 SCLs:socialized charismatic leaders
 PM:psychological mindedness
 LC:leader-contact
@@ -221,7 +210,6 @@ NC:normative commitment
 AC:affective commitment
 GDSS:group decision support system
 SDT:self-determination theory
-NCR:NCP
 NCP:non-contingent punishment
 IWB:innovative work behavior
 PS:psychological safety
@@ -248,7 +236,6 @@ LCT:leadership categorization theory
 AET:Affective Events Theory
 CNS:clinical nurse specialist
 EN:enrolled nurses
-Second World War:World War II
 ERIC:Educational Resources Information Centre
 NCOs:non-commission officers
 PHSOs:Public human services organizations
@@ -260,10 +247,5 @@ Chief executive officer:CEO
 PCLs:personalized charismatic leadership
 CFPDTs:Cross-functional product development teams
 AMTs:Advanced Manufacturing Technologies
-IQs:IQ
 LTIPs:long-term incentive plans
 CWBs:counter-productive work behaviors
-MBAs:MBA
-NGOs:NGO
-The Global Leadership and Organizational Effectiveness Project:Global Leadership Organizational Effectiveness Research Program
-the Situational LeadershipÆ Model The Situational Leadership:Situational Leadership Model
