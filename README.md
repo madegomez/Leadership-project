@@ -5,12 +5,6 @@ En Kappa_alpha.txt está el indice Kappa para los 106 conceptos analizados por l
 
 El indice Kappa para los datos con categoria 'completamete asociado a la ontología semilla' están en Kappa_alpha_semilla.txt, el indice Kappa promedio es 0.8161540711017236 considerando valores superiores a 0.41. El indice Kappa para los datos con categoria 'no completamente asociado a la ontología semilla' es 0.923068339415609 haciendo el filtrado mencionado previamente, estos valores están en el archivo Kappa_alpha_enriquecimiento.txt
 
-El archivo Name_clases_originales.txt tiene las clases, subclases e instancias de la ontología del liderazgo. Estas etiquetas están preprocesadas.
-
-El archivo Name_clases_alternativas_completas.txt tiene las alternativas de las etiquetas presentadas en el documento anterior. Todas las ternativas están preprocesadas.
-
-En Stopwords_compilation.txt están las stopwords que se usaron en este proyecto.
-
 En Corpus_semilla_v9.txt contiene los 255 documentos con categoria 'completamente asociado a la ontología semilla' después de preprocesamiento, además en Corpus_enriquecimiento_v9.txt están los 33 textos que se emplean en enriquecimiento. Todos los documentos están separados por sentencias, en particular, hay 46749 oraciones en la primera categoria y 8365 en la segunda.
 
 En Sentences_relevence_semilla.txt están los nombres de cada documento con categoria 'completamente asociado a la ontología semilla' y los números de las respectivas sentencias relevantes. En Sentences_relevence_enriquecimiento.txt se asocian los textos en categoria 'no completamente asociado a la ontología semilla'. Es así como en la primera categoria hay 9304 sentencias relevantes y 2747 en la segunda.
