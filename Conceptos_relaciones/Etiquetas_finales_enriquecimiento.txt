@@ -1,0 +1,8 @@
+theory_x:prefer_direct----punishment----control----autocratic_style----human_nature----responsibility----transactional----work----prefer_direct----follower_work----contingent_reward----reward----punishment----distance----mistake----objective----equalitarian
+theory_y:greater_responsibility----ingenuity----natural----creativity----ambitious----participative_style----ingenuity----natural----creativity----solve_problem----creative----trust----authoritarian
+interact_team:team_work
+show_concern_behavior:respect
+lead_behavior:leader_commitment
+decision_style_a2:leader_decision
+achievement_oriented_style:leader_expect----highest_level
+leader_member_exchange:mutual_trust----leadership_make_model----incremental_influence----role_make_process----growth_need_strength
